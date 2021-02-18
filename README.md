@@ -4,7 +4,9 @@ This repository contains the R script _("GHC Initiation.R")_ required to replica
 
 The only analysis not present in the R code is the determination of whether individuals showed elaboration when initiating a GHC (described in the Results section of the manuscript). This was done manually in Excel according to the following procedure:
 
-We identified the bout numbers of the bouts during which the initiator showed several of the GHC-specific initiation behaviors
-These bouts were isolated from the GHC video dataset
-After an iniatior performed a gesture, we calculated the response waiting time as they time until they performed another gesture or shaping behavior (so StartTime of the second behavior minus Endtime of first behavior)
-From this we calculated the minimum, maximum, and average response waiting time
+1. We identified the bout numbers of the bouts during which the initiator showed several of the GHC-specific initiation behaviors
+2. These bouts were isolated from the GHC video dataset
+3. After an iniatior performed a gesture, we calculated the response waiting time as they time until they performed another gesture or shaping behavior (so StartTime of the second behavior minus Endtime of first behavior)
+4. From this we calculated the minimum, maximum, and average response waiting time
+
+Additionally, we have included an overview of the results of our inter-rater-reliability analyses _("IRR_GHC.xlsx")_. This contains the raw coding of the sub-sample of videos for each observer, as well as a comparison of their coding and the final calculation of the IRR scores. 
