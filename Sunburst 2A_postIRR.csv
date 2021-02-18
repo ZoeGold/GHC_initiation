@@ -1,0 +1,247 @@
+BoutID;Dyad;Initiator;ID1;Behavior;ID2;Order
+1;Violet-Vis;Violet;Violet;headtouch;Vis;a
+3;Debbie-Little Jenkins;Debbie;Little Jenkins;torso;;a
+3;Debbie-Little Jenkins;Debbie;Little Jenkins;nosewipe;;a
+4;Debbie-Violet;Debbie;Debbie;scratch;;a
+4;Debbie-Violet;Debbie;Violet;scratch;;a
+4;Debbie-Violet;Debbie;Violet;torso;;a
+4;Debbie-Violet;Debbie;Debbie;headtouch;Violet;a
+5;Doug-Nikkie;Nikkie;Nikkie;elbowtouch;Doug;a
+6;Little Jane-Little Jenkins;Little Jane;Little Jane;scratch;;a
+6;Little Jane-Little Jenkins;Little Jane;Little Jenkins;scratch;;a
+6;Little Jane-Little Jenkins;Little Jane;Little Jane;headtouch;Little Jenkins;a
+6;Little Jane-Little Jenkins;Little Jane;Little Jenkins;headmove;Little Jane;a
+6;Little Jane-Little Jenkins;Little Jane;Little Jane;handtouch;Little Jenkins;a
+6;Little Jane-Little Jenkins;Little Jane;Little Jenkins;handgrab;Little Jane;a
+7;Little Jenkins-Little Jones;Little Jenkins;Little Jones;nosewipe;;a
+7;Little Jenkins-Little Jones;Little Jenkins;Little Jenkins;elbowtouch;Little Jones;a
+7;Little Jenkins-Little Jones;Little Jenkins;Little Jenkins;handtouch;Little Jones;a
+7;Little Jenkins-Little Jones;Little Jenkins;Little Jenkins;elbowhold;Little Jones;a
+8;Little Judy-Long John;Long John;Long John;headmove;;a
+9;Maxine-Noel;Maxine;Maxine;headmove;;a
+10;Dolly-Moyo;Dolly;Dolly;handgrab;Moyo;a
+11;Moyo-Nikkie;Nikkie;Moyo;torso;;a
+11;Moyo-Nikkie;Nikkie;Nikkie;torso;;a
+12;Diana-Diz;Diana;Diz;nosewipe;;a
+12;Diana-Diz;Diana;Diana;torso;;a
+12;Diana-Diz;Diana;Diz;scratch;;a
+12;Diana-Diz;Diana;Diz;nosewipe;;a
+13;Nina-Noel;Nina;Noel;torso;;a
+13;Nina-Noel;Nina;Nina;nosewipe;;a
+13;Nina-Noel;Nina;Noel;nosewipe;;a
+13;Nina-Noel;Nina;Nina;elbowhold;Noel;a
+14;Diana-Vis;Vis;Vis;nosewipe;;a
+14;Diana-Vis;Vis;Vis;elbowtouch;Diana;a
+14;Diana-Vis;Vis;Vis;handgrab;Diana;a
+15;Debbie-Nina;Nina;Nina;nosewipe;;a
+17;Daisey-Tilly;Daisey;Daisey;handtouch;Tilly;a
+17;Daisey-Tilly;Daisey;Tilly;scratch;;a
+17;Daisey-Tilly;Daisey;Tilly;torso;;a
+18;Debbie-Violet;Debbie;Violet;nosewipe;;a
+18;Debbie-Violet;Debbie;Debbie;elbowtouch;Violet;a
+18;Debbie-Violet;Debbie;Violet;nosewipe;;a
+18;Debbie-Violet;Debbie;Violet;torso;;a
+18;Debbie-Violet;Debbie;Debbie;handtouch;Violet;a
+20;Dora-Nina;Nina;Dora;nosewipe;;a
+21;Doug-Vis;Doug;Doug;scratch;;a
+21;Doug-Vis;Doug;Doug;elbowtouch;Vis;a
+26;Max-Noel;Noel;Noel;elbowhold;Max;a
+27;Nina-Tilly;Nina;Nina;scratch;;a
+30;Doug-Vis;Vis;Vis;headmove;;a
+30;Doug-Vis;Vis;Vis;elbowtouch;Doug;a
+31;Daisey-Diana;Daisey;Daisey;elbowtouch;Diana;a
+31;Daisey-Diana;Daisey;Diana;scratch;;a
+31;Daisey-Diana;Daisey;Daisey;headmove;;a
+31;Daisey-Diana;Daisey;Daisey;elbowhold;Diana;a
+33;Daisey-Debbie;Daisey;Daisey;torso;;a
+34;Daisey-Diana;Daisey;Daisey;elbowtouch;;a
+34;Daisey-Diana;Daisey;Diana;headmove;;a
+35;Dolly-Vis;Dolly;Dolly;elbowhold;Vis;a
+35;Dolly-Vis;Dolly;Dolly;handgrab;Vis;a
+43;Debbie-Tess;Debbie;Debbie;handgrab;Tess;a
+44;Debbie-Dolly;Debbie;Dolly;headmove;;a
+66;Maxine-Misha;Misha;Maxine;torso;;a
+66;Maxine-Misha;Misha;Maxine;handgrab;Misha;a
+71;Daisey-Diana;Daisey;Daisey;elbowtouch;Diana;a
+71;Daisey-Diana;Daisey;Diana;torso;;a
+71;Daisey-Diana;Daisey;Daisey;elbowhold;Diana;a
+71;Daisey-Diana;Daisey;Daisey;hold;;a
+83;Little Jane-Little Judy;Little Jane;Little Jane;hold;;a
+84;Nikkie-Noel;Nikkie;Nikkie;torso;;a
+85;Daisey-Diana;Diana;Diana;nosewipe;;a
+85;Daisey-Diana;Diana;Daisey;headmove;;a
+92;Debbie-Maggie;Debbie;Debbie;headtouch;;a
+97;Little Jane-Little Jenkins;Little Jane;Little Jane;headtouch;;a
+97;Little Jane-Little Jenkins;Little Jane;Little Jane;hold;;a
+98;Maxine-Misha;Maxine;Maxine;headtouch;Misha;a
+99;Doug-Nikkie;Nikkie;Nikkie;torso;;a
+101;Mary-Masya;Mary;Masya;scratch;;a
+103;Doug-Vis;Doug;Doug;hold;;a
+108;Daisey-Debbie;Debbie;Debbie;torso;;a
+108;Daisey-Debbie;Debbie;Daisey;torso;;a
+110;Daisey-Diana;Daisey;Daisey;torso;;a
+110;Daisey-Diana;Daisey;Daisey;hold;Diana;a
+115;Dolly-Doug;Doug;Doug;torso;;a
+119;Maxine-Misha;Misha;Misha;scratch;;a
+119;Maxine-Misha;Misha;Misha;torso;;a
+122;Misha-Noel;Misha;Misha;torso;;a
+122;Misha-Noel;Misha;Misha;headmove;;a
+126;Nikkie-Nina;Nina;Nina;scratch;;a
+126;Nikkie-Nina;Nina;Nina;hold;;a
+127;Mary-Masya;Mary;Masya;torso;;a
+130;Mary-Masya;Masya;Mary;scratch;;a
+130;Mary-Masya;Masya;Masya;handgrab;Mary;a
+132;Little Jane-Noel;Little Jane;Noel;scratch;;a
+132;Little Jane-Noel;Little Jane;Little Jane;nosewipe;;a
+132;Little Jane-Noel;Little Jane;Little Jane;hold;;a
+132;Little Jane-Noel;Little Jane;Noel;elbowtouch;Little Jane;a
+132;Little Jane-Noel;Little Jane;Noel;scratch;;a
+137;David-Nikkie;Nikkie;Nikkie;torso;;a
+144;Dolly-Nikkie;Nikkie;Nikkie;hold;;a
+144;Dolly-Nikkie;Nikkie;Dolly;torso;;a
+147;Misha-Tess;Tess;Misha;scratch;;a
+147;Misha-Tess;Tess;Tess;hold;;a
+147;Misha-Tess;Tess;Misha;torso;;a
+159;Dora-Nikkie;Nikkie;Nikkie;torso;;a
+159;Dora-Nikkie;Nikkie;Nikkie;elbowhold;Dora;a
+166;Mary-Masya;Masya;Masya;elbowhold;Mary;a
+168;Tilly-Trixie;Trixie;Trixie;nosewipe;;a
+168;Tilly-Trixie;Trixie;Tilly;headmove;;a
+169;Debbie-Tess;Tess;Tess;headmove;;a
+171;Daisey-Diana;Daisey;Daisey;scratch;;a
+171;Daisey-Diana;Daisey;Diana;torso;;a
+177;Nina-Pippa;Nina;Nina;nosewipe;;a
+177;Nina-Pippa;Nina;Pippa;torso;;a
+177;Nina-Pippa;Nina;Pippa;headtouch;Nina;a
+183;Little Jane-Little Jenkins;Little Jenkins;Little Jane;elbowtouch;Little Jenkins;a
+183;Little Jane-Little Jenkins;Little Jenkins;Little Jane;nosewipe;;a
+201;Debbie-Nikkie;Debbie;Debbie;elbowhold;Nikkie;a
+203;Debbie-Nikkie;Debbie;Debbie;headtouch;Nikkie;a
+208;Little Judy-Long John;Little Judy;Little Judy;elbowtouch;Long John;a
+211;Max-Maxine;Maxine;Maxine;nosewipe;;a
+211;Max-Maxine;Maxine;Maxine;elbowhold;Max;a
+211;Max-Maxine;Maxine;Max;nosewipe;;a
+211;Max-Maxine;Maxine;Maxine;handgrab;Max;a
+214;Dolly-Nikkie;Dolly;Dolly;elbowtouch;Nikkie;a
+396;Charity-Moyo;Charity;Charity;scratch;;a
+396;Charity-Moyo;Charity;Charity;elbowhold;Moyo;a
+222;Doug-Vis;Vis;Doug;scratch;;a
+222;Doug-Vis;Vis;Vis;elbowhold;Doug;a
+224;Debbie-Nina;Debbie;Debbie;torso;;a
+224;Debbie-Nina;Debbie;Debbie;hold;;a
+224;Debbie-Nina;Debbie;Nina;torso;;a
+225;Doug-Vis;Doug;Doug;headtouch;Vis;a
+226;Debbie-Nina;Debbie;Nina;nosewipe;;a
+227;Misha-Nikkie;Nikkie;Nikkie;torso;;a
+227;Misha-Nikkie;Nikkie;Nikkie;elbowhold;Misha;a
+228;Misha-Moyo;Moyo;Misha;headtouch;Moyo;a
+230;Mary-Masya;Masya;Masya;headtouch;Mary;a
+230;Mary-Masya;Masya;Mary;torso;;a
+230;Mary-Masya;Masya;Mary;scratch;;a
+230;Mary-Masya;Masya;Masya;elbowhold;Mary;a
+230;Mary-Masya;Masya;Mary;nosewipe;;a
+233;Debbie-Tess;Debbie;Debbie;torso;;a
+233;Debbie-Tess;Debbie;Tess;scratch;;a
+233;Debbie-Tess;Debbie;Debbie;handgrab;Tess;a
+236;Doug-Nikkie;Nikkie;Nikkie;torso;;a
+236;Doug-Nikkie;Nikkie;Nikkie;handtouch;Doug;a
+237;Nina-Tess;Nina;Nina;nosewipe;;a
+237;Nina-Tess;Nina;Nina;elbowhold;Tess;a
+242;Daisey-Diana;Daisey;Daisey;elbowtouch;Diana;a
+242;Daisey-Diana;Daisey;Daisey;handtouch;Diana;a
+242;Daisey-Diana;Daisey;Daisey;elbowhold;Diana;a
+243;Daisey-Diana;Daisey;Daisey;elbowhold;Diana;a
+244;Daisey-Debbie;Debbie;Debbie;headtouch;Daisey;a
+244;Daisey-Debbie;Debbie;Daisey;torso;;a
+246;Debbie-Tilly;Debbie;Tilly;scratch;;a
+246;Debbie-Tilly;Debbie;Debbie;handgrab;Tilly;a
+247;Daisey-Diana;Daisey;Daisey;handtouch;Diana;a
+248;Debbie-Tess;Debbie;Debbie;hold;;a
+248;Debbie-Tess;Debbie;Debbie;headtouch;Tess;a
+248;Debbie-Tess;Debbie;Tess;torso;;a
+252;Dolly-Nina;Nina;Nina;scratch;;a
+252;Dolly-Nina;Nina;Nina;torso;;a
+252;Dolly-Nina;Nina;Nina;elbowtouch;Dolly;a
+252;Dolly-Nina;Nina;Dolly;scratch;;a
+253;Doug-Nikkie;Nikkie;Nikkie;torso;;a
+253;Doug-Nikkie;Nikkie;Nikkie;nosewipe;;a
+254;Debbie-Tess;Debbie;Tess;scratch;;a
+254;Debbie-Tess;Debbie;Debbie;hold;;a
+255;Misha-Noel;Noel;Noel;headmove;;a
+262;Daisey-Nikkie;Daisey;Daisey;elbowhold;Nikkie;a
+264;Daisey-Debbie;Debbie;Debbie;headtouch;Daisey;a
+266;David-Doug;David;David;headmove;;a
+266;David-Doug;David;David;handtouch;Doug;a
+266;David-Doug;David;David;nosewipe;;a
+274;Debbie-Dolly;Debbie;Debbie;headtouch;Dolly;a
+276;Nikkie-Nina;Nikkie;Nina;torso;;a
+277;Dolly-Nina;Dolly;Nina;scratch;;a
+277;Dolly-Nina;Dolly;Nina;scratch;;a
+277;Dolly-Nina;Dolly;Dolly;torso;;a
+278;Dolly-Nina;Nina;Nina;scratch;;a
+278;Dolly-Nina;Nina;Nina;handtouch;Dolly;a
+280;Dolly-Tilly;Dolly;Dolly;elbowhold;Tilly;a
+290;Dolly-Doug;Doug;Doug;headtouch;Dolly;a
+291;Debbie-Nikkie;Debbie;Debbie;hold;;a
+324;Martin-Misha;Misha;Misha;torso;;a
+324;Martin-Misha;Misha;Martin;elbowtouch;;a
+324;Martin-Misha;Misha;Misha;hold;;a
+338;Coco-Noel;Noel;Noel;hold;;a
+340;Maggie-Noel;Noel;Maggie;headtouch;Noel;a
+340;Maggie-Noel;Noel;Noel;headmove;;a
+399;David-Diana;Diana;Diana;headmove;;a
+399;David-Diana;Diana;Diana;elbowhold;David;a
+342;Claire-Nina;Nina;Nina;elbowhold;Claire;a
+344;Daisey-Diana;Daisey;Daisey;elbowhold;Diana;a
+345;Moyo-Nikkie;Moyo;Moyo;elbowhold;Nikkie;a
+347;Maggie-May;May;May;scratch;;a
+347;Maggie-May;May;May;headtouch;Maggie;a
+347;Maggie-May;May;May;handtouch;Maggie;a
+348;Little Jane-Little Jenkins;Little Jane;Little Jane;elbowhold;Little Jenkins;a
+349;Little Jane-Little Jones;Little Jane;Little Jones;scratch;;a
+349;Little Jane-Little Jones;Little Jane;Little Jane;hold;;a
+349;Little Jane-Little Jones;Little Jane;Little Jane;elbowhold;Little Jones;a
+349;Little Jane-Little Jones;Little Jane;Little Jane;hold;;a
+403;Little Jane-Little Jenkins;Little Jenkins;Little Jenkins;elbowhold;Little Jane;a
+393;Debbie-Nina;Debbie;Debbie;hold;;a
+393;Debbie-Nina;Debbie;Debbie;handtouch;Nina;a
+352;Little Jane-Little Jones;Little Jane;Little Jane;scratch;;a
+352;Little Jane-Little Jones;Little Jane;Little Jane;elbowtouch;Little Jones;a
+405;Daisey-Diana;Daisey;Daisey;torso;;a
+405;Daisey-Diana;Daisey;Daisey;handtouch;Diana;a
+406;Daisey-Diana;Daisey;Daisey;scratch;;a
+362;Daisey-Diana;Daisey;Daisey;nosewipe;;a
+362;Daisey-Diana;Daisey;Daisey;headmove;;a
+395;Dora-Nikkie;Nikkie;Nikkie;headtouch;Dora;a
+369;Maxine-Misha;Maxine;Maxine;elbowtouch;Misha;a
+369;Maxine-Misha;Maxine;Maxine;scratch;;a
+369;Maxine-Misha;Maxine;Misha;torso;;a
+373;David-Nikkie;Nikkie;David;scratch;;a
+373;David-Nikkie;Nikkie;Nikkie;hold;;a
+373;David-Nikkie;Nikkie;David;scratch;;a
+374;Diana-Doug;Diana;Doug;elbowtouch;Diana;a
+374;Diana-Doug;Diana;Diana;headmove;;a
+383;Dolly-Nikkie;Nikkie;Nikkie;scratch;;a
+383;Dolly-Nikkie;Nikkie;Dolly;torso;;a
+385;Nina-Violet;Nina;Nina;nosewipe;;a
+385;Nina-Violet;Nina;Violet;scratch;;a
+385;Nina-Violet;Nina;Violet;torso;;a
+385;Nina-Violet;Nina;Violet;scratch;;a
+385;Nina-Violet;Nina;Violet;torso;;a
+386;Nikkie-Tess;Nikkie;Tess;torso;;a
+386;Nikkie-Tess;Nikkie;Tess;hold;;a
+387;Debbie-Nikkie;Debbie;Debbie;headtouch;Nikkie;a
+387;Debbie-Nikkie;Debbie;Nikkie;torso;;a
+387;Debbie-Nikkie;Debbie;Debbie;hold;;a
+387;Debbie-Nikkie;Debbie;Debbie;handtouch;Nikkie;a
+388;Debbie-Tess;Debbie;Debbie;torso;;a
+388;Debbie-Tess;Debbie;Debbie;hold;;a
+389;Debbie-Tess;Debbie;Debbie;headtouch;Tess;a
+389;Debbie-Tess;Debbie;Debbie;hold;;a
+390;Debbie-Little Jenkins;Debbie;Debbie;headtouch;Little Jenkins;a
+390;Debbie-Little Jenkins;Debbie;Debbie;hold;;a
+392;Diana-Diz;Diz;Diz;scratch;;a
+392;Diana-Diz;Diz;Diz;headtouch;Diana;a
+392;Diana-Diz;Diz;Diana;torso;;a
+392;Diana-Diz;Diz;Diz;elbowhold;Diana;a
+392;Diana-Diz;Diz;Diz;handgrab;Diana;a

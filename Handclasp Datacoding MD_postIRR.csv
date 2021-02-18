@@ -1,0 +1,992 @@
+Date;BoutID;Complete;View;Dyad;Initiator;Partner;StartTime;EndTime;Duration;ID1;Behavior;ID2;Condition
+21/03/2019;4;Yes;Side;Debbie-Violet;Debbie;Violet;00:02:30;00:02:34;00:00:04;Debbie;Self scratch;;PH
+21/03/2019;4;Yes;Side;Debbie-Violet;Debbie;Violet;00:02:33;00:02:34;00:00:01;Violet;Self scratch;;PH
+21/03/2019;4;Yes;Side;Debbie-Violet;Debbie;Violet;00:02:34;00:02:36;00:00:02;Violet;Torso;;PH
+21/03/2019;4;Yes;Side;Debbie-Violet;Debbie;Violet;00:02:36;00:02:36;00:00:00;Debbie;Head touch;Violet;PH
+21/03/2019;4;Yes;Side;Debbie-Violet;Debbie;Violet;00:02:36;00:02:37;00:00:01;Violet;Raise;;PH
+21/03/2019;4;Yes;Side;Debbie-Violet;Debbie;Violet;00:02:36;00:02:37;00:00:01;Debbie;Raise;;PH
+21/03/2019;4;Yes;Side;Debbie-Violet;Debbie;Violet;00:05:05;00:05:15;00:00:10;Debbie;Groom other;Violet;MC
+21/03/2019;5;Yes;Side;Doug-Nikkie;Nikkie;Doug;00:00:22;00:00:31;00:00:09;Nikkie;Groom other;Doug;PH
+21/03/2019;5;Yes;Side;Doug-Nikkie;Nikkie;Doug;00:00:22;00:00:31;00:00:09;Doug;Groom other;Nikkie;PH
+21/03/2019;5;Yes;Side;Doug-Nikkie;Nikkie;Doug;00:00:31;00:00:32;00:00:01;Nikkie;Raise;;PH
+21/03/2019;5;Yes;Side;Doug-Nikkie;Nikkie;Doug;00:00:31;00:00:31;00:00:01;Nikkie;Elbow touch;Doug;PH
+21/03/2019;5;Yes;Side;Doug-Nikkie;Nikkie;Doug;00:00:31;00:00:32;00:00:01;Doug;Raise;;PH
+21/03/2019;5;Yes;Side;Doug-Nikkie;Nikkie;Doug;00:04:14;00:04:24;00:00:10;Doug;Groom other;Nikkie;MC
+21/03/2019;5;Yes;Side;Doug-Nikkie;Nikkie;Doug;00:04:14;00:04:24;00:00:10;Nikkie;Groom hand/arm;Doug;MC
+22/03/2019;8;Yes;Side;Little Judy-Long John;Long John;Little Judy;00:00:30;00:00:37;00:00:07;Little Judy;Groom face;Long John;PH
+22/03/2019;8;Yes;Side;Little Judy-Long John;Long John;Little Judy;00:00:36;00:00:36;00:00:00;Long John;Head move;;PH
+22/03/2019;8;Yes;Side;Little Judy-Long John;Long John;Little Judy;00:00:37;00:00:40;00:00:02;Long John;Raise;;PH
+22/03/2019;8;Yes;Side;Little Judy-Long John;Long John;Little Judy;00:00:38;00:00:40;00:00:02;Little Judy;Raise;;PH
+22/03/2019;8;Yes;Side;Little Judy-Long John;Long John;Little Judy;00:05:11;00:05:21;00:00:10;Long John;Groom other;Little Judy;MC
+24/03/2019;3;Yes;Side;Debbie-Little Jenkins;Debbie;Little Jenkins;00:02:02;00:02:04;00:00:02;Little Jenkins;Torso;;PH
+24/03/2019;3;Yes;Side;Debbie-Little Jenkins;Debbie;Little Jenkins;00:02:08;00:02:09;00:00:01;Little Jenkins;Nosewipe;;PH
+24/03/2019;3;Yes;Side;Debbie-Little Jenkins;Debbie;Little Jenkins;00:02:09;00:02:10;00:00:02;Debbie;Raise;;PH
+24/03/2019;3;Yes;Side;Debbie-Little Jenkins;Debbie;Little Jenkins;00:02:09;00:02:10;00:00:01;Little Jenkins;Raise;;PH
+24/03/2019;3;Yes;Side;Debbie-Little Jenkins;Debbie;Little Jenkins;00:03:00;00:03:10;00:00:10;Little Jenkins;Groom other;Debbie;MC
+24/03/2019;7;Yes;Side;Little Jenkins-Little Jones;Little Jenkins;Little Jones;00:00:09;00:00:18;00:00:09;Little Jenkins;Groom face;Little Jones;PH
+24/03/2019;7;Yes;Side;Little Jenkins-Little Jones;Little Jenkins;Little Jones;00:00:18;00:00:19;00:00:01;Little Jones;Nosewipe;;PH
+24/03/2019;7;Yes;Side;Little Jenkins-Little Jones;Little Jenkins;Little Jones;00:00:19;00:00:19;00:00:00;Little Jenkins;Elbow touch;Little Jones;PH
+24/03/2019;7;Yes;Side;Little Jenkins-Little Jones;Little Jenkins;Little Jones;00:00:19;00:00:19;00:00:00;Little Jenkins;Hand touch;Little Jones;PH
+24/03/2019;7;Yes;Side;Little Jenkins-Little Jones;Little Jenkins;Little Jones;00:00:19;00:00:20;00:00:00;Little Jenkins;Elbow hold;Little Jones;PH
+24/03/2019;7;Yes;Side;Little Jenkins-Little Jones;Little Jenkins;Little Jones;00:00:20;00:00:20;00:00:01;Little Jenkins;Raise;;PH
+24/03/2019;7;Yes;Side;Little Jenkins-Little Jones;Little Jenkins;Little Jones;00:00:20;00:00:20;00:00:00;Little Jones;Raise;;PH
+24/03/2019;7;Yes;Side;Little Jenkins-Little Jones;Little Jenkins;Little Jones;00:02:23;00:02:33;00:00:10;Little Jenkins;Groom face;Little Jones;MC
+24/03/2019;7;Yes;Side;Little Jenkins-Little Jones;Little Jenkins;Little Jones;00:02:25;00:02:33;00:00:07;Little Jones;Groom other;Little Jenkins;MC
+25/03/2019;1;Yes;Side;Violet-Vis;Violet;Vis;00:00:52;00:01:00;00:00:08;Violet;Groom other;Vis;PH
+25/03/2019;1;Yes;Side;Violet-Vis;Violet;Vis;00:00:52;00:01:01;00:00:09;Vis;Groom other;Violet;PH
+25/03/2019;1;Yes;Side;Violet-Vis;Violet;Vis;00:01:01;00:01:02;00:00:01;Violet;Head touch;Vis;PH
+25/03/2019;1;Yes;Side;Violet-Vis;Violet;Vis;00:01:01;00:01:02;00:00:01;Vis;Raise;;PH
+25/03/2019;1;Yes;Side;Violet-Vis;Violet;Vis;00:01:56;00:02:04;00:00:09;Vis;Groom other;Violet;MC
+25/03/2019;2;Yes;Side;Daisey-Diana;Diana;Daisey;00:00:54;00:00:55;00:00:01;Daisey;Raise;;PH
+25/03/2019;2;Yes;Side;Daisey-Diana;Diana;Daisey;00:00:55;00:00:55;00:00:01;Diana;Raise;;PH
+25/03/2019;2;Yes;Side;Daisey-Diana;Diana;Daisey;00:04:28;00:04:39;00:00:11;Diana;Groom other;Daisey;MC
+25/03/2019;11;Yes;Side;Moyo-Nikkie;Nikkie;Moyo;00:03:06;00:03:11;00:00:05;Moyo;Groom other;Nikkie;PH
+25/03/2019;11;Yes;Side;Moyo-Nikkie;Nikkie;Moyo;00:03:11;00:03:12;00:00:01;Moyo;Torso;;PH
+25/03/2019;11;Yes;Side;Moyo-Nikkie;Nikkie;Moyo;00:03:12;00:03:14;00:00:01;Nikkie;Groom other;Moyo;PH
+25/03/2019;11;Yes;Side;Moyo-Nikkie;Nikkie;Moyo;00:03:14;00:03:15;00:00:00;Nikkie;Torso;;PH
+25/03/2019;11;Yes;Side;Moyo-Nikkie;Nikkie;Moyo;00:03:15;00:03:16;00:00:01;Nikkie;Raise;;PH
+25/03/2019;11;Yes;Side;Moyo-Nikkie;Nikkie;Moyo;00:03:15;00:03:15;00:00:00;Moyo;Raise;;PH
+25/03/2019;11;Yes;Side;Moyo-Nikkie;Nikkie;Moyo;00:06:22;00:06:32;00:00:10;Moyo;Groom other;Nikkie;MC
+25/03/2019;11;Yes;Side;Moyo-Nikkie;Nikkie;Moyo;00:06:22;00:06:22;00:00:00;Nikkie;Groom other;Moyo;MC
+25/03/2019;11;Yes;Side;Moyo-Nikkie;Nikkie;Moyo;00:06:22;00:06:32;00:00:10;Nikkie;Groom other;Moyo;MC
+25/03/2019;12;Yes;Side;Diana-Diz;Diana;Diz;00:41:02;00:41:08;00:00:06;Diz;Groom other;Diana;PH
+25/03/2019;12;Yes;Side;Diana-Diz;Diana;Diz;00:41:08;00:41:09;00:00:01;Diz;Nosewipe;;PH
+25/03/2019;12;Yes;Side;Diana-Diz;Diana;Diz;00:41:09;00:41:11;00:00:01;Diana;Torso;;PH
+25/03/2019;12;Yes;Side;Diana-Diz;Diana;Diz;00:41:09;00:41:10;00:00:01;Diz;Self scratch;;PH
+25/03/2019;12;Yes;Side;Diana-Diz;Diana;Diz;00:41:10;00:41:10;00:00:00;Diz;Nosewipe;;PH
+25/03/2019;12;Yes;Side;Diana-Diz;Diana;Diz;00:41:11;00:41:12;00:00:01;Diana;Raise;;PH
+25/03/2019;12;Yes;Side;Diana-Diz;Diana;Diz;00:41:11;00:41:12;00:00:01;Diz;Raise;;PH
+25/03/2019;12;Yes;Side;Diana-Diz;Diana;Diz;00:46:45;00:46:55;00:00:10;Diana;Groom other;Diz;MC
+25/03/2019;12;Yes;Side;Diana-Diz;Diana;Diz;00:46:45;00:46:55;00:00:10;Diz;Groom other;Diana;MC
+27/03/2019;6;Yes;Side;Little Jane-Little Jenkins;Little Jane;Little Jenkins;00:00:31;00:00:36;00:00:05;Little Jane;Self scratch;;PH
+27/03/2019;6;Yes;Side;Little Jane-Little Jenkins;Little Jane;Little Jenkins;00:00:33;00:00:35;00:00:03;Little Jenkins;Self scratch;;PH
+27/03/2019;6;Yes;Side;Little Jane-Little Jenkins;Little Jane;Little Jenkins;00:00:37;00:00:40;00:00:03;Little Jane;Head touch;Little Jenkins;PH
+27/03/2019;6;Yes;Side;Little Jane-Little Jenkins;Little Jane;Little Jenkins;00:00:37;00:00:38;00:00:00;Little Jenkins;Head move;Little Jane;PH
+27/03/2019;6;Yes;Side;Little Jane-Little Jenkins;Little Jane;Little Jenkins;00:00:40;00:00:40;00:00:00;Little Jane;Hand touch;Little Jenkins;PH
+27/03/2019;6;Yes;Side;Little Jane-Little Jenkins;Little Jane;Little Jenkins;00:00:40;00:00:41;00:00:01;Little Jenkins;Raise;;PH
+27/03/2019;6;Yes;Side;Little Jane-Little Jenkins;Little Jane;Little Jenkins;00:00:41;00:00:41;00:00:00;Little Jenkins;Hand Grab;Little Jane;PH
+27/03/2019;6;Yes;Side;Little Jane-Little Jenkins;Little Jane;Little Jenkins;00:01:55;00:02:05;00:00:10;Little Jenkins;Groom face;Little Jane;MC
+27/03/2019;14;Yes;Side;Diana-Vis;Vis;Diana;00:00:44;00:00:45;00:00:01;Vis;Nosewipe;;PH
+27/03/2019;14;Yes;Side;Diana-Vis;Vis;Diana;00:00:49;00:00:50;00:00:01;Vis;Elbow touch;Diana;PH
+27/03/2019;14;Yes;Side;Diana-Vis;Vis;Diana;00:00:49;00:00:50;00:00:00;Vis;Hand Grab;Diana;PH
+27/03/2019;14;Yes;Side;Diana-Vis;Vis;Diana;00:00:50;00:00:50;00:00:00;Diana;Raise;;PH
+27/03/2019;14;Yes;Side;Diana-Vis;Vis;Diana;00:00:50;00:00:50;00:00:00;Vis;Raise;;PH
+27/03/2019;14;Yes;Side;Diana-Vis;Vis;Diana;00:02:03;00:02:13;00:00:10;Vis;Groom face;Diana;MC
+27/03/2019;24;Yes;Side;Nikkie-Nina;Nikkie;Nina;00:00:12;00:00:21;00:00:09;Nina;Groom face;Nikkie;PH
+27/03/2019;24;Yes;Side;Nikkie-Nina;Nikkie;Nina;00:00:12;00:00:21;00:00:09;Nikkie;Groom other;Nina;PH
+27/03/2019;24;Yes;Side;Nikkie-Nina;Nikkie;Nina;00:00:22;00:00:23;00:00:02;Nikkie;Raise;;PH
+27/03/2019;24;Yes;Side;Nikkie-Nina;Nikkie;Nina;00:00:22;00:00:23;00:00:01;Nina;Raise;;PH
+27/03/2019;24;Yes;Side;Nikkie-Nina;Nikkie;Nina;00:11:48;00:11:58;00:00:10;Nikkie;Groom face;Nina;MC
+01/04/2019;30;Yes;Side;Doug-Vis;Vis;Doug;00:12:48;00:12:52;00:00:03;Vis;Groom face;Doug;PH
+01/04/2019;30;Yes;Side;Doug-Vis;Vis;Doug;00:12:57;00:12:58;00:00:01;Vis;Head move;;PH
+01/04/2019;30;Yes;Side;Doug-Vis;Vis;Doug;00:12:58;00:12:58;00:00:00;Doug;Raise;;PH
+01/04/2019;30;Yes;Side;Doug-Vis;Vis;Doug;00:12:58;00:12:58;00:00:00;Vis;Elbow touch;Doug;PH
+01/04/2019;30;Yes;Side;Doug-Vis;Vis;Doug;00:12:58;00:12:58;00:00:00;Vis;Raise;;PH
+01/04/2019;30;Yes;Side;Doug-Vis;Vis;Doug;00:16:51;00:17:01;00:00:10;Doug;Groom face;Vis;MC
+01/04/2019;34;Yes;Side;Daisey-Diana;Daisey;Diana;00:04:16;00:04:21;00:00:06;Daisey;Groom other;Diana;PH
+01/04/2019;34;Yes;Side;Daisey-Diana;Daisey;Diana;00:04:23;00:04:23;00:00:01;Daisey;Elbow touch;;PH
+01/04/2019;34;Yes;Side;Daisey-Diana;Daisey;Diana;00:04:23;00:04:24;00:00:01;Daisey;Raise;;PH
+01/04/2019;34;Yes;Side;Daisey-Diana;Daisey;Diana;00:04:23;00:04:25;00:00:01;Diana;Head move;;PH
+01/04/2019;34;Yes;Side;Daisey-Diana;Daisey;Diana;00:04:25;00:04:26;00:00:01;Daisey;Raise;;PH
+01/04/2019;34;Yes;Side;Daisey-Diana;Daisey;Diana;00:04:25;00:04:26;00:00:01;Diana;Raise;;PH
+01/04/2019;34;Yes;Side;Daisey-Diana;Daisey;Diana;00:05:48;00:05:58;00:00:10;Daisey;Groom other;Diana;MC
+01/04/2019;35;Yes;Side;Dolly-Vis;Dolly;Vis;00:03:18;00:03:25;00:00:07;Dolly;Groom armpit;Vis;PH
+01/04/2019;35;Yes;Side;Dolly-Vis;Dolly;Vis;00:03:27;00:03:27;00:00:00;Dolly;Elbow hold;Vis;PH
+01/04/2019;35;Yes;Side;Dolly-Vis;Dolly;Vis;00:03:27;00:03:27;00:00:00;Dolly;Hand Grab;Vis;PH
+01/04/2019;35;Yes;Side;Dolly-Vis;Dolly;Vis;00:03:27;00:03:28;00:00:01;Dolly;Raise;;PH
+01/04/2019;35;Yes;Side;Dolly-Vis;Dolly;Vis;00:03:27;00:03:28;00:00:01;Vis;Raise;;PH
+01/04/2019;35;Yes;Side;Dolly-Vis;Dolly;Vis;00:05:51;00:06:01;00:00:10;Dolly;Groom face;Vis;MC
+01/04/2019;35;Yes;Side;Dolly-Vis;Dolly;Vis;00:05:52;00:05:53;00:00:01;Vis;Head move;;MC
+02/04/2019;62;Yes;Side;Debbie-Dolly;Debbie;Dolly;00:00:18;00:00:20;00:00:02;Debbie;Bent;Dolly;PH
+02/04/2019;62;Yes;Side;Debbie-Dolly;Debbie;Dolly;00:00:23;00:00:25;00:00:02;Dolly;Raise;;PH
+02/04/2019;62;Yes;Side;Debbie-Dolly;Debbie;Dolly;00:00:24;00:00:25;00:00:01;Debbie;Raise;;PH
+02/04/2019;62;Yes;Side;Debbie-Dolly;Debbie;Dolly;00:03:37;00:03:47;00:00:10;Dolly;Groom other;Debbie;MC
+02/04/2019;68;Yes;Side;Dolly-Doug;Dolly;Doug;00:02:15;00:02:23;00:00:08;Dolly;Groom other;Doug;PH
+02/04/2019;68;Yes;Side;Dolly-Doug;Dolly;Doug;00:02:15;00:02:23;00:00:09;Doug;Groom other;Dolly;PH
+02/04/2019;68;Yes;Side;Dolly-Doug;Dolly;Doug;00:02:23;00:02:25;00:00:02;Dolly;Raise;;PH
+02/04/2019;68;Yes;Side;Dolly-Doug;Dolly;Doug;00:02:24;00:02:25;00:00:01;Doug;Raise;;PH
+02/04/2019;68;Yes;Side;Dolly-Doug;Dolly;Doug;00:16:11;00:16:22;00:00:11;Dolly;Groom other;Doug;MC
+02/04/2019;68;Yes;Side;Dolly-Doug;Dolly;Doug;00:16:11;00:16:16;00:00:05;Doug;Groom other;Dolly;MC
+02/04/2019;68;Yes;Side;Dolly-Doug;Dolly;Doug;00:16:21;00:16:21;00:00:01;Doug;Groom other;Dolly;MC
+02/04/2019;77;Yes;Side;Daisey-Diana;;;00:00:11;00:00:11;00:00:00;Daisey;Head touch;Diana;IRG
+02/04/2019;78;Yes;Side;David-Diana;;;00:04:44;00:04:45;00:00:00;David;Touch other;Diana;IRG
+02/04/2019;78;Yes;Side;David-Diana;;;00:04:46;00:04:46;00:00:00;Diana;Groom hand/arm;David;IRG
+02/04/2019;80;Yes;Side;Daisey-Diana;;;00:00:03;00:00:03;00:00:00;Daisey;Head touch;Diana;IRG
+02/04/2019;80;Yes;Side;Daisey-Diana;;;00:00:04;00:00:10;00:00:06;Diana;Groom hand/arm;Daisey;IRG
+03/04/2019;70;Yes;Back;Diana-Diz;Diz;Diana;00:01:45;00:01:54;00:00:09;Diz;Groom hand/arm;Diana;PH
+03/04/2019;70;Yes;Back;Diana-Diz;Diz;Diana;00:01:54;00:01:54;00:00:00;Diana;Elbow touch;Diz;PH
+03/04/2019;70;Yes;Back;Diana-Diz;Diz;Diana;00:01:55;00:01:55;00:00:01;Diana;Raise;;PH
+03/04/2019;70;Yes;Back;Diana-Diz;Diz;Diana;00:01:55;00:01:55;00:00:01;Diz;Raise;;PH
+03/04/2019;70;Yes;Back;Diana-Diz;Diz;Diana;00:05:05;00:05:15;00:00:10;Diana;Groom other;Diz;MC
+03/04/2019;71;Yes;Side;Daisey-Diana;Daisey;Diana;00:09:24;00:09:31;00:00:07;Daisey;Groom other;Diana;PH
+03/04/2019;71;Yes;Side;Daisey-Diana;Daisey;Diana;00:09:31;00:09:32;00:00:01;Daisey;Elbow touch;Diana;PH
+03/04/2019;71;Yes;Side;Daisey-Diana;Daisey;Diana;00:09:31;00:09:32;00:00:01;Diana;Torso;;PH
+03/04/2019;71;Yes;Side;Daisey-Diana;Daisey;Diana;00:09:32;00:09:33;00:00:01;Daisey;Elbow hold;Diana;PH
+03/04/2019;71;Yes;Side;Daisey-Diana;Daisey;Diana;00:09:32;00:09:34;00:00:01;Diana;Raise;;PH
+03/04/2019;71;Yes;Side;Daisey-Diana;Daisey;Diana;00:09:32;00:09:33;00:00:01;Daisey;Hold;;PH
+03/04/2019;71;Yes;Side;Daisey-Diana;Daisey;Diana;00:09:33;00:09:34;00:00:00;Daisey;Raise;;PH
+03/04/2019;71;Yes;Side;Daisey-Diana;Daisey;Diana;00:12:04;00:12:14;00:00:10;Daisey;Groom face;Diana;MC
+04/04/2019;83;Yes;Side;Little Jane-Little Judy;Little Jane;Little Judy;00:00:20;00:00:27;00:00:08;Little Jane;Groom face;;PH
+04/04/2019;83;Yes;Side;Little Jane-Little Judy;Little Jane;Little Judy;00:00:27;00:00:29;00:00:01;Little Jane;Hold;;PH
+04/04/2019;83;Yes;Side;Little Jane-Little Judy;Little Jane;Little Judy;00:00:29;00:00:30;00:00:01;Little Jane;Raise;;PH
+04/04/2019;83;Yes;Side;Little Jane-Little Judy;Little Jane;Little Judy;00:00:29;00:00:30;00:00:01;Little Judy;Raise;;PH
+04/04/2019;83;Yes;Side;Little Jane-Little Judy;Little Jane;Little Judy;00:01:55;00:02:05;00:00:10;Little Jane;Groom hand/arm;;MC
+06/04/2019;98;Yes;Side;Maxine-Misha;Maxine;Misha;00:00:02;00:00:03;00:00:01;Maxine;Head touch;Misha;PH
+06/04/2019;98;Yes;Side;Maxine-Misha;Maxine;Misha;00:00:04;00:00:05;00:00:01;Misha;Raise;;PH
+06/04/2019;98;Yes;Side;Maxine-Misha;Maxine;Misha;00:00:04;00:00:05;00:00:00;Maxine;Raise;;PH
+06/04/2019;98;Yes;Side;Maxine-Misha;Maxine;Misha;00:01:18;00:01:28;00:00:10;Maxine;Groom other;Misha;MC
+06/04/2019;98;Yes;Side;Maxine-Misha;Maxine;Misha;00:01:18;00:01:28;00:00:10;Misha;Groom other;Maxine;MC
+06/04/2019;99;Yes;Side;Doug-Nikkie;Nikkie;Doug;00:00:28;00:00:33;00:00:05;Doug;Groom other;Nikkie;PH
+06/04/2019;99;Yes;Side;Doug-Nikkie;Nikkie;Doug;00:00:28;00:00:36;00:00:08;Nikkie;Groom hand/arm;Doug;PH
+06/04/2019;99;Yes;Side;Doug-Nikkie;Nikkie;Doug;00:00:36;00:00:37;00:00:00;Nikkie;Torso;;PH
+06/04/2019;99;Yes;Side;Doug-Nikkie;Nikkie;Doug;00:00:37;00:00:38;00:00:01;Nikkie;Raise;;PH
+06/04/2019;99;Yes;Side;Doug-Nikkie;Nikkie;Doug;00:00:37;00:00:38;00:00:01;Doug;Raise;;PH
+06/04/2019;99;Yes;Side;Doug-Nikkie;Nikkie;Doug;00:07:21;00:07:32;00:00:11;Nikkie;Groom face;Doug;MC
+06/04/2019;100;Yes;Side;Misha-Noel;Noel;Misha;00:00:09;00:00:17;00:00:08;Misha;Groom face;Noel;PH
+06/04/2019;100;Yes;Side;Misha-Noel;Noel;Misha;00:00:17;00:00:19;00:00:02;Noel;Raise;;PH
+06/04/2019;100;Yes;Side;Misha-Noel;Noel;Misha;00:00:19;00:00:19;00:00:00;Misha;Raise;;PH
+06/04/2019;100;Yes;Side;Misha-Noel;Noel;Misha;00:02:11;00:02:21;00:00:10;Noel;Groom face;Misha;MC
+06/04/2019;101;Yes;Side;Mary-Masya;Mary;Masya;00:00:52;00:01:01;00:00:08;Mary;Groom face;Masya;PH
+06/04/2019;101;Yes;Side;Mary-Masya;Mary;Masya;00:00:53;00:00:57;00:00:05;Masya;Groom face;Mary;PH
+06/04/2019;101;Yes;Side;Mary-Masya;Mary;Masya;00:00:58;00:00:59;00:00:01;Masya;Self scratch;;PH
+06/04/2019;101;Yes;Side;Mary-Masya;Mary;Masya;00:00:59;00:01:02;00:00:02;Masya;Groom face;Mary;PH
+06/04/2019;101;Yes;Side;Mary-Masya;Mary;Masya;00:01:01;00:01:02;00:00:02;Mary;Raise;;PH
+06/04/2019;101;Yes;Side;Mary-Masya;Mary;Masya;00:01:02;00:01:02;00:00:01;Masya;Raise;;PH
+06/04/2019;101;Yes;Side;Mary-Masya;Mary;Masya;00:05:58;00:06:08;00:00:10;Masya;Groom face;Mary;MC
+06/04/2019;104;Yes;Back;David-Dolly;Dolly;David;00:02:24;00:02:24;00:00:01;David;Raise;;PH
+06/04/2019;104;Yes;Back;David-Dolly;Dolly;David;00:04:17;00:04:27;00:00:10;Dolly;Groom other;David;MC
+06/04/2019;105;Yes;Back;Misha-Moyo;Moyo;Misha;00:00:46;00:00:54;00:00:08;Moyo;Groom other;Misha;PH
+06/04/2019;105;Yes;Back;Misha-Moyo;Moyo;Misha;00:00:48;00:00:54;00:00:06;Misha;Groom face;Moyo;PH
+06/04/2019;105;Yes;Back;Misha-Moyo;Moyo;Misha;00:00:54;00:00:55;00:00:01;Misha;Nosewipe;;PH
+06/04/2019;105;Yes;Back;Misha-Moyo;Moyo;Misha;00:00:56;00:00:56;00:00:00;Moyo;Elbow hold;Misha;PH
+06/04/2019;105;Yes;Back;Misha-Moyo;Moyo;Misha;00:00:56;00:00:56;00:00:01;Misha;Raise;;PH
+06/04/2019;105;Yes;Back;Misha-Moyo;Moyo;Misha;00:00:56;00:00:56;00:00:01;Moyo;Raise;;PH
+06/04/2019;105;Yes;Back;Misha-Moyo;Moyo;Misha;00:01:34;00:01:41;00:00:07;Moyo;Groom other;Misha;MC
+06/04/2019;105;Yes;Back;Misha-Moyo;Moyo;Misha;00:01:34;00:01:41;00:00:07;Misha;Groom face;Moyo;MC
+06/04/2019;106;Yes;Back;Debbie-Noel;Noel;Debbie;00:00:19;00:00:28;00:00:09;Debbie;Groom other;;PH
+06/04/2019;106;Yes;Back;Debbie-Noel;Noel;Debbie;00:00:28;00:00:29;00:00:01;Noel;Raise;;PH
+06/04/2019;106;Yes;Back;Debbie-Noel;Noel;Debbie;00:00:28;00:00:29;00:00:01;Debbie;Raise;;PH
+06/04/2019;106;Yes;Back;Debbie-Noel;Noel;Debbie;00:01:28;00:01:34;00:00:07;Noel;Groom face;Debbie;MC
+06/04/2019;106;Yes;Back;Debbie-Noel;Noel;Debbie;00:01:35;00:01:39;00:00:04;Debbie;Self scratch;;MC
+06/04/2019;304;Yes;Side;David-Diana;;;00:02:37;00:02:37;00:00:00;Diana;Nosewipe;;IRG
+06/04/2019;304;Yes;Side;David-Diana;;;00:02:40;00:02:41;00:00:01;Diana;Groom other;David;IRG
+06/04/2019;395;Yes;Side;Dora-Nikkie;Nikkie;Dora;00:00:23;00:00:27;00:00:05;Nikkie;Groom hand/arm;Dora;PH
+06/04/2019;395;Yes;Side;Dora-Nikkie;Nikkie;Dora;00:00:29;00:00:30;00:00:01;Nikkie;Head touch;Dora;PH
+06/04/2019;395;Yes;Side;Dora-Nikkie;Nikkie;Dora;00:00:32;00:00:33;00:00:01;Dora;Raise;;PH
+06/04/2019;395;Yes;Side;Dora-Nikkie;Nikkie;Dora;00:00:33;00:00:33;00:00:00;Nikkie;Raise;;PH
+06/04/2019;395;Yes;Side;Dora-Nikkie;Nikkie;Dora;00:03:25;00:03:35;00:00:10;Dora;Groom other;Nikkie;MC
+06/04/2019;395;Yes;Side;Dora-Nikkie;Nikkie;Dora;00:03:25;00:03:35;00:00:10;Nikkie;Groom other;Dora;MC
+08/04/2019;110;Yes;Side;Daisey-Diana;Daisey;Diana;00:00:00;00:00:03;00:00:03;Diana;Groom other;Daisey;PH
+08/04/2019;110;Yes;Side;Daisey-Diana;Daisey;Diana;00:00:04;00:00:06;00:00:02;Daisey;Torso;;PH
+08/04/2019;110;Yes;Side;Daisey-Diana;Daisey;Diana;00:00:06;00:00:06;00:00:00;Daisey;Hold;Diana;PH
+08/04/2019;110;Yes;Side;Daisey-Diana;Daisey;Diana;00:00:06;00:00:07;00:00:01;Diana;Raise;;PH
+08/04/2019;110;Yes;Side;Daisey-Diana;Daisey;Diana;00:00:06;00:00:07;00:00:01;Daisey;Raise;;PH
+08/04/2019;110;Yes;Side;Daisey-Diana;Daisey;Diana;00:06:37;00:06:47;00:00:10;Diana;Groom other;Daisey;MC
+08/04/2019;111;Yes;Side;Maxine-Moyo;Moyo;Maxine;00:00:51;00:01:01;00:00:10;Maxine;Groom face;Moyo;MC
+08/04/2019;111;Yes;Side;Maxine-Moyo;Moyo;Maxine;00:01:05;00:01:14;00:00:09;Moyo;Groom hand/arm;Maxine;PH
+08/04/2019;111;Yes;Side;Maxine-Moyo;Moyo;Maxine;00:01:05;00:01:14;00:00:09;Maxine;Groom other;Moyo;PH
+08/04/2019;111;Yes;Side;Maxine-Moyo;Moyo;Maxine;00:01:14;00:01:14;00:00:01;Moyo;Raise;;PH
+08/04/2019;111;Yes;Side;Maxine-Moyo;Moyo;Maxine;00:01:14;00:01:14;00:00:01;Maxine;Raise;;PH
+08/04/2019;112;Yes;Side;Doug-Nikkie;Doug;Nikkie;00:00:19;00:00:28;00:00:09;Doug;Groom other;Nikkie;PH
+08/04/2019;112;Yes;Side;Doug-Nikkie;Doug;Nikkie;00:00:19;00:00:28;00:00:09;Nikkie;Groom other;Doug;PH
+08/04/2019;112;Yes;Side;Doug-Nikkie;Doug;Nikkie;00:00:28;00:00:29;00:00:01;Doug;Raise;;PH
+08/04/2019;112;Yes;Side;Doug-Nikkie;Doug;Nikkie;00:00:28;00:00:29;00:00:00;Nikkie;Raise;;PH
+08/04/2019;112;Yes;Side;Doug-Nikkie;Doug;Nikkie;00:02:00;00:02:10;00:00:10;Nikkie;Groom hand/arm;Doug;MC
+08/04/2019;112;Yes;Side;Doug-Nikkie;Doug;Nikkie;00:02:00;00:02:10;00:00:10;Doug;Groom other;Nikkie;MC
+08/04/2019;113;Yes;Side;Doug-Tilly;;;00:02:11;00:02:13;00:00:01;Doug;Torso;;IRG
+08/04/2019;113;Yes;Side;Doug-Tilly;;;00:02:13;00:02:20;00:00:07;Doug;Groom other;Tilly;IRG
+08/04/2019;115;Yes;Side;Dolly-Doug;Doug;Dolly;00:00:00;00:00:06;00:00:06;Dolly;Groom other;Doug;PH
+08/04/2019;115;Yes;Side;Dolly-Doug;Doug;Dolly;00:00:05;00:00:06;00:00:01;Doug;Torso;;PH
+08/04/2019;115;Yes;Side;Dolly-Doug;Doug;Dolly;00:00:06;00:00:08;00:00:02;Doug;Raise;;PH
+08/04/2019;115;Yes;Side;Dolly-Doug;Doug;Dolly;00:00:07;00:00:08;00:00:01;Dolly;Raise;;PH
+08/04/2019;115;Yes;Side;Dolly-Doug;Doug;Dolly;00:01:52;00:02:02;00:00:10;Dolly;Groom other;Doug;MC
+08/04/2019;309;Yes;Side;Debbie-Doug;;;00:01:19;00:01:21;00:00:02;Debbie;Groom other;Doug;IRG
+09/04/2019;119;Yes;Side;Maxine-Misha;Misha;Maxine;00:02:15;00:02:22;00:00:07;Maxine;Groom other;Misha;PH
+09/04/2019;119;Yes;Side;Maxine-Misha;Misha;Maxine;00:02:21;00:02:22;00:00:01;Misha;Self scratch;;PH
+09/04/2019;119;Yes;Side;Maxine-Misha;Misha;Maxine;00:02:22;00:02:24;00:00:02;Misha;Torso;;PH
+09/04/2019;119;Yes;Side;Maxine-Misha;Misha;Maxine;00:02:24;00:02:25;00:00:01;Misha;Raise;;PH
+09/04/2019;119;Yes;Side;Maxine-Misha;Misha;Maxine;00:02:25;00:02:25;00:00:01;Maxine;Raise;;PH
+09/04/2019;119;Yes;Side;Maxine-Misha;Misha;Maxine;00:03:50;00:04:00;00:00:10;Misha;Groom face;Maxine;MC
+09/04/2019;120;Yes;Side;Misha-Nikkie;Nikkie;Misha;00:05:02;00:05:09;00:00:07;Nikkie;Groom other;Misha;PH
+09/04/2019;120;Yes;Side;Misha-Nikkie;Nikkie;Misha;00:05:09;00:05:12;00:00:02;Nikkie;Raise;;PH
+09/04/2019;120;Yes;Side;Misha-Nikkie;Nikkie;Misha;00:05:11;00:05:12;00:00:01;Misha;Raise;;PH
+09/04/2019;120;Yes;Side;Misha-Nikkie;Nikkie;Misha;00:08:42;00:08:52;00:00:10;Misha;Groom other;Nikkie;MC
+09/04/2019;120;Yes;Side;Misha-Nikkie;Nikkie;Misha;00:08:42;00:08:52;00:00:10;Nikkie;Groom other;Misha;MC
+09/04/2019;120;Yes;Side;Misha-Nikkie;Nikkie;Misha;00:08:53;00:08:53;00:00:01;Nikkie;Raise;;MC
+09/04/2019;121;Yes;Side;Noel-Tess;;;00:07:56;00:08:00;00:00:04;Tess;Self scratch;;IRG
+09/04/2019;121;Yes;Side;Noel-Tess;;;00:08:02;00:08:03;00:00:01;Tess;Head touch;Noel;IRG
+09/04/2019;121;Yes;Side;Noel-Tess;;;00:08:03;00:08:03;00:00:00;Tess;Groom face;Noel;IRG
+09/04/2019;122;Yes;Side;Misha-Noel;Misha;Noel;00:11:08;00:11:14;00:00:06;Noel;Groom face;Misha;PH
+09/04/2019;122;Yes;Side;Misha-Noel;Misha;Noel;00:11:10;00:11:12;00:00:02;Misha;Torso;;PH
+09/04/2019;122;Yes;Side;Misha-Noel;Misha;Noel;00:11:15;00:11:16;00:00:01;Misha;Head move;;PH
+09/04/2019;122;Yes;Side;Misha-Noel;Misha;Noel;00:11:16;00:11:17;00:00:01;Noel;Raise;;PH
+09/04/2019;122;Yes;Side;Misha-Noel;Misha;Noel;00:11:16;00:11:17;00:00:01;Misha;Raise;;PH
+09/04/2019;122;Yes;Side;Misha-Noel;Misha;Noel;00:12:51;00:13:01;00:00:10;Noel;Groom face;Misha;MC
+09/04/2019;123;Yes;Side;Misha-Nikkie;;;00:13:08;00:13:10;00:00:02;Misha;Torso;;IRG
+09/04/2019;123;Yes;Side;Misha-Nikkie;;;00:13:10;00:13:11;00:00:01;Misha;Head touch;Nikkie;IRG
+09/04/2019;123;Yes;Side;Misha-Nikkie;;;00:13:11;00:13:16;00:00:05;Misha;Groom face;Nikkie;IRG
+09/04/2019;124;Yes;Side;Diana-Diz;;;00:17:36;00:17:43;00:00:07;Diana;Self scratch;;IRG
+09/04/2019;124;Yes;Side;Diana-Diz;;;00:17:44;00:17:44;00:00:00;Diz;Nosewipe;;IRG
+09/04/2019;124;Yes;Side;Diana-Diz;;;00:17:44;00:17:44;00:00:00;Diz;Touch other;Diana;IRG
+09/04/2019;124;Yes;Side;Diana-Diz;;;00:17:45;00:17:46;00:00:01;Diana;Groom hand/arm;Diz;IRG
+09/04/2019;124;Yes;Side;Diana-Diz;;;00:17:45;00:17:46;00:00:01;Diz;Groom other;Diana;IRG
+09/04/2019;125;Yes;Side;David-Diana;David;Diana;00:20:29;00:20:38;00:00:09;Diana;Groom face;David;PH
+09/04/2019;125;Yes;Side;David-Diana;David;Diana;00:20:38;00:20:39;00:00:01;David;Raise;;PH
+09/04/2019;125;Yes;Side;David-Diana;David;Diana;00:20:38;00:20:39;00:00:01;Diana;Raise;;PH
+09/04/2019;125;Yes;Side;David-Diana;David;Diana;00:26:07;00:26:17;00:00:10;David;Groom face;Diana;MC
+09/04/2019;126;Yes;Side;Nikkie-Nina;Nina;Nikkie;00:27:34;00:27:43;00:00:09;Nikkie;Groom hand/arm;Nina;PH
+09/04/2019;126;Yes;Side;Nikkie-Nina;Nina;Nikkie;00:27:40;00:27:42;00:00:02;Nina;Self scratch;;PH
+09/04/2019;126;Yes;Side;Nikkie-Nina;Nina;Nikkie;00:27:43;00:27:44;00:00:01;Nina;Hold;;PH
+09/04/2019;126;Yes;Side;Nikkie-Nina;Nina;Nikkie;00:27:43;00:27:44;00:00:01;Nikkie;Raise;;PH
+09/04/2019;126;Yes;Side;Nikkie-Nina;Nina;Nikkie;00:29:26;00:29:34;00:00:08;Nikkie;Groom other;Nina;MC
+09/04/2019;126;Yes;Side;Nikkie-Nina;Nina;Nikkie;00:29:34;00:29:36;00:00:02;Nikkie;Groom face;Nina;MC
+09/04/2019;131;Yes;Back;David-Pan;David;Pan;00:02:39;00:02:47;00:00:08;Pan;Groom other;David;PH
+09/04/2019;131;Yes;Back;David-Pan;David;Pan;00:02:48;00:02:48;00:00:00;David;Torso;;PH
+09/04/2019;131;Yes;Back;David-Pan;David;Pan;00:02:48;00:02:49;00:00:01;David;Raise;;PH
+09/04/2019;131;Yes;Back;David-Pan;David;Pan;00:02:48;00:02:49;00:00:01;Pan;Raise;;PH
+09/04/2019;131;Yes;Back;David-Pan;David;Pan;00:04:22;00:04:32;00:00:10;Pan;Groom other;David;MC
+09/04/2019;132;Yes;Side;Little Jane-Noel;Little Jane;Noel;00:01:06;00:01:09;00:00:03;Noel;Self scratch;;PH
+09/04/2019;132;Yes;Side;Little Jane-Noel;Little Jane;Noel;00:01:07;00:01:08;00:00:01;Little Jane;Nosewipe;;PH
+09/04/2019;132;Yes;Side;Little Jane-Noel;Little Jane;Noel;00:01:08;00:01:15;00:00:07;Little Jane;Hold;;PH
+09/04/2019;132;Yes;Side;Little Jane-Noel;Little Jane;Noel;00:01:12;00:01:13;00:00:01;Noel;Elbow touch;Little Jane;PH
+09/04/2019;132;Yes;Side;Little Jane-Noel;Little Jane;Noel;00:01:13;00:01:14;00:00:01;Noel;Self scratch;;PH
+09/04/2019;132;Yes;Side;Little Jane-Noel;Little Jane;Noel;00:01:14;00:01:15;00:00:01;Noel;Raise;;PH
+09/04/2019;132;Yes;Side;Little Jane-Noel;Little Jane;Noel;00:01:15;00:01:16;00:00:00;Little Jane;Raise;;PH
+09/04/2019;132;Yes;Side;Little Jane-Noel;Little Jane;Noel;00:03:51;00:04:01;00:00:10;Noel;Groom face;Little Jane;MC
+09/04/2019;137;Yes;Side;David-Nikkie;Nikkie;David;00:01:52;00:02:01;00:00:09;David;Groom hand/arm;Nikkie;PH
+09/04/2019;137;Yes;Side;David-Nikkie;Nikkie;David;00:01:52;00:02:01;00:00:08;Nikkie;Groom other;David;PH
+09/04/2019;137;Yes;Side;David-Nikkie;Nikkie;David;00:02:01;00:02:01;00:00:00;Nikkie;Torso;;PH
+09/04/2019;137;Yes;Side;David-Nikkie;Nikkie;David;00:02:01;00:02:02;00:00:01;Nikkie;Raise;;PH
+09/04/2019;137;Yes;Side;David-Nikkie;Nikkie;David;00:02:01;00:02:02;00:00:01;David;Raise;;PH
+09/04/2019;137;Yes;Side;David-Nikkie;Nikkie;David;00:26:43;00:26:47;00:00:04;Nikkie;Groom hand/arm;David;MC
+09/04/2019;137;Yes;Side;David-Nikkie;Nikkie;David;00:26:44;00:26:47;00:00:03;David;Groom other;Nikkie;MC
+11/04/2019;138;Yes;Side;Nina-Noel;Nina;Noel;00:00:29;00:00:37;00:00:09;Noel;Groom other;Nina;PH
+11/04/2019;138;Yes;Side;Nina-Noel;Nina;Noel;00:00:38;00:00:39;00:00:01;Nina;Raise;;PH
+11/04/2019;138;Yes;Side;Nina-Noel;Nina;Noel;00:00:38;00:00:39;00:00:00;Noel;Raise;;PH
+11/04/2019;138;Yes;Side;Nina-Noel;Nina;Noel;00:01:41;00:01:51;00:00:10;Nina;Groom face;Noel;MC
+11/04/2019;139;Yes;Side;Nina-Noel;;;00:04:15;00:04:16;00:00:02;Nina;Touch other;Noel;IRG
+11/04/2019;139;Yes;Side;Nina-Noel;;;00:04:22;00:04:24;00:00:01;Noel;Torso;;IRG
+11/04/2019;139;Yes;Side;Nina-Noel;;;00:04:24;00:04:25;00:00:00;Noel;Groom face;Nina;IRG
+11/04/2019;139;Yes;Side;Nina-Noel;;;00:04:24;00:04:25;00:00:00;Nina;Groom face;Noel;IRG
+11/04/2019;140;Yes;Side;Nina-Noel;;;00:08:40;00:08:46;00:00:07;Noel;Groom other;Maggie;IRG
+11/04/2019;140;Yes;Side;Maggie-Noel;;;00:08:48;00:08:49;00:00:02;Maggie;Torso;;IRG
+11/04/2019;140;Yes;Side;Maggie-Noel;;;00:08:49;00:08:50;00:00:00;Maggie;Groom face;Noel;IRG
+11/04/2019;155;Yes;Back;Maxine-Misha;Maxine;Misha;00:00:18;00:00:20;00:00:02;Misha;Groom other;Maxine;PH
+11/04/2019;155;Yes;Back;Maxine-Misha;Maxine;Misha;00:00:19;00:00:19;00:00:01;Maxine;Raise;;PH
+11/04/2019;155;Yes;Back;Maxine-Misha;Maxine;Misha;00:00:19;00:00:20;00:00:01;Maxine;Elbow hold;Misha;PH
+11/04/2019;155;Yes;Back;Maxine-Misha;Maxine;Misha;00:00:20;00:00:21;00:00:01;Misha;Raise;;PH
+11/04/2019;155;Yes;Back;Maxine-Misha;Maxine;Misha;00:00:20;00:00:21;00:00:01;Maxine;Raise;;PH
+11/04/2019;155;Yes;Back;Maxine-Misha;Maxine;Misha;00:01:13;00:01:23;00:00:10;Maxine;Groom other;Misha;MC
+11/04/2019;156;Yes;Side;Moyo-Nikkie;Nikkie;Moyo;00:00:38;00:00:47;00:00:09;Moyo;Groom other;Nikkie;PH
+11/04/2019;156;Yes;Side;Moyo-Nikkie;Nikkie;Moyo;00:00:38;00:00:47;00:00:09;Nikkie;Groom hand/arm;Moyo;PH
+11/04/2019;156;Yes;Side;Moyo-Nikkie;Nikkie;Moyo;00:00:48;00:00:48;00:00:01;Nikkie;Raise;;PH
+11/04/2019;156;Yes;Side;Moyo-Nikkie;Nikkie;Moyo;00:00:48;00:00:48;00:00:01;Moyo;Raise;;PH
+11/04/2019;156;Yes;Side;Moyo-Nikkie;Nikkie;Moyo;00:19:24;00:19:34;00:00:10;Moyo;Groom other;Nikkie;MC
+11/04/2019;156;Yes;Side;Moyo-Nikkie;Nikkie;Moyo;00:19:24;00:19:34;00:00:10;Nikkie;Groom other;Moyo;MC
+11/04/2019;157;Yes;Back;Debbie-Violet;Violet;Debbie;00:00:48;00:00:56;00:00:09;Debbie;Groom other;Violet;PH
+11/04/2019;157;Yes;Back;Debbie-Violet;Violet;Debbie;00:00:56;00:00:57;00:00:01;Violet;Torso;;PH
+11/04/2019;157;Yes;Back;Debbie-Violet;Violet;Debbie;00:00:57;00:00:57;00:00:00;Debbie;Move to armpit;;PH
+11/04/2019;157;Yes;Back;Debbie-Violet;Violet;Debbie;00:00:57;00:00:58;00:00:00;Violet;Raise;;PH
+11/04/2019;157;Yes;Back;Debbie-Violet;Violet;Debbie;00:00:57;00:00:58;00:00:00;Debbie;Raise;;PH
+11/04/2019;157;Yes;Back;Debbie-Violet;Violet;Debbie;00:04:00;00:04:02;00:00:02;Violet;Groom other;Debbie;MC
+11/04/2019;157;Yes;Back;Debbie-Violet;Violet;Debbie;00:04:02;00:04:09;00:00:07;Violet;Groom face;Debbie;MC
+11/04/2019;158;Yes;Back;Mary-Masya;Mary;Masya;00:01:43;00:01:52;00:00:09;Masya;Groom face;Mary;PH
+11/04/2019;158;Yes;Back;Mary-Masya;Mary;Masya;00:01:52;00:01:52;00:00:00;Mary;Move to armpit;Masya;PH
+11/04/2019;158;Yes;Back;Mary-Masya;Mary;Masya;00:01:52;00:01:53;00:00:01;Mary;Raise;;PH
+11/04/2019;158;Yes;Back;Mary-Masya;Mary;Masya;00:01:52;00:01:53;00:00:01;Masya;Raise;;PH
+11/04/2019;158;Yes;Back;Mary-Masya;Mary;Masya;00:05:10;00:05:20;00:00:10;Mary;Groom face;Masya;MC
+12/04/2019;170;Yes;Side;Daisey-Diana;;;00:00:01;00:00:01;00:00:00;Daisey;Touch other;Diana;IRG
+12/04/2019;170;Yes;Side;Daisey-Diana;;;00:00:01;00:00:02;00:00:01;Diana;Torso;;IRG
+12/04/2019;170;Yes;Side;Daisey-Diana;;;00:00:09;00:00:10;00:00:01;Daisey;Groom hand/arm;Diana;IRG
+12/04/2019;170;Yes;Side;Daisey-Diana;;;00:00:10;00:00:10;00:00:00;Diana;Groom other;Daisey;IRG
+12/04/2019;171;Yes;Side;Daisey-Diana;Daisey;Diana;00:06:03;00:06:07;00:00:05;Daisey;Groom other;Diana;PH
+12/04/2019;171;Yes;Side;Daisey-Diana;Daisey;Diana;00:06:08;00:06:08;00:00:01;Daisey;Self scratch;;PH
+12/04/2019;171;Yes;Side;Daisey-Diana;Daisey;Diana;00:06:09;00:06:09;00:00:00;Daisey;Touch other;Diana;PH
+12/04/2019;171;Yes;Side;Daisey-Diana;Daisey;Diana;00:06:11;00:06:12;00:00:02;Diana;Torso;;PH
+12/04/2019;171;Yes;Side;Daisey-Diana;Daisey;Diana;00:06:12;00:06:13;00:00:01;Diana;Raise;;PH
+12/04/2019;171;Yes;Side;Daisey-Diana;Daisey;Diana;00:06:12;00:06:13;00:00:00;Daisey;Raise;;PH
+12/04/2019;171;Yes;Side;Daisey-Diana;Daisey;Diana;00:11:12;00:11:22;00:00:10;Daisey;Groom face;Diana;MC
+12/04/2019;172;Yes;Back;Dolly-Nikkie;Nikkie;Dolly;00:00:50;00:00:58;00:00:08;Dolly;Groom other;Nikkie;PH
+12/04/2019;172;Yes;Back;Dolly-Nikkie;Nikkie;Dolly;00:00:50;00:00:58;00:00:08;Nikkie;Groom other;Dolly;PH
+12/04/2019;172;Yes;Back;Dolly-Nikkie;Nikkie;Dolly;00:00:58;00:00:59;00:00:01;Dolly;Bent;Nikkie;PH
+12/04/2019;172;Yes;Back;Dolly-Nikkie;Nikkie;Dolly;00:00:59;00:01:00;00:00:01;Dolly;Raise;;PH
+12/04/2019;172;Yes;Back;Dolly-Nikkie;Nikkie;Dolly;00:00:59;00:01:00;00:00:01;Nikkie;Raise;;PH
+12/04/2019;172;Yes;Back;Dolly-Nikkie;Nikkie;Dolly;00:05:20;00:05:30;00:00:10;Nikkie;Groom other;Dolly;MC
+12/04/2019;173;Yes;Side;Diana-Doug;;;00:01:05;00:01:06;00:00:01;Doug;Groom other;Diana;IRG
+12/04/2019;173;Yes;Side;Diana-Doug;;;00:01:06;00:01:06;00:00:00;Diana;Groom hand/arm;Doug;IRG
+12/04/2019;175;Yes;Back;Diana-Doug;Diana;Doug;00:06:05;00:06:05;00:00:00;Diana;Head move;;PH
+12/04/2019;175;Yes;Back;Diana-Doug;Diana;Doug;00:06:05;00:06:06;00:00:01;Diana;Raise;;PH
+12/04/2019;175;Yes;Back;Diana-Doug;Diana;Doug;00:06:06;00:06:06;00:00:01;Doug;Raise;;PH
+12/04/2019;175;Yes;Back;Diana-Doug;Diana;Doug;00:07:08;00:07:18;00:00:10;Doug;Groom face;Diana;MC
+12/04/2019;176;Yes;Back;Doug-Nikkie;Doug;Nikkie;00:00:16;00:00:25;00:00:08;Doug;Groom face;Nikkie;PH
+12/04/2019;176;Yes;Back;Doug-Nikkie;Doug;Nikkie;00:00:16;00:00:24;00:00:08;Nikkie;Groom hand/arm;Doug;PH
+12/04/2019;176;Yes;Back;Doug-Nikkie;Doug;Nikkie;00:00:25;00:00:26;00:00:01;Doug;Raise;;PH
+12/04/2019;176;Yes;Back;Doug-Nikkie;Doug;Nikkie;00:00:25;00:00:26;00:00:01;Nikkie;Torso;;PH
+12/04/2019;176;Yes;Back;Doug-Nikkie;Doug;Nikkie;00:00:26;00:00:26;00:00:00;Nikkie;Raise;;PH
+12/04/2019;176;Yes;Back;Doug-Nikkie;Doug;Nikkie;00:04:25;00:04:35;00:00:10;Nikkie;Groom face;Doug;MC
+12/04/2019;177;Yes;Side;Nina-Pippa;Nina;Pippa;00:01:25;00:01:32;00:00:07;Nina;Groom other;Pippa;PH
+12/04/2019;177;Yes;Side;Nina-Pippa;Nina;Pippa;00:01:25;00:01:33;00:00:08;Pippa;Groom other;Nina;PH
+12/04/2019;177;Yes;Side;Nina-Pippa;Nina;Pippa;00:01:32;00:01:32;00:00:01;Nina;Nosewipe;;PH
+12/04/2019;177;Yes;Side;Nina-Pippa;Nina;Pippa;00:01:33;00:01:34;00:00:01;Pippa;Torso;;PH
+12/04/2019;177;Yes;Side;Nina-Pippa;Nina;Pippa;00:01:33;00:01:35;00:00:01;Nina;Raise;;PH
+12/04/2019;177;Yes;Side;Nina-Pippa;Nina;Pippa;00:01:34;00:01:34;00:00:00;Pippa;Head touch;Nina;PH
+12/04/2019;177;Yes;Side;Nina-Pippa;Nina;Pippa;00:01:34;00:01:35;00:00:00;Pippa;Raise;;PH
+12/04/2019;177;Yes;Side;Nina-Pippa;Nina;Pippa;00:03:06;00:03:07;00:00:01;Nina;Groom other;Pippa;MC
+12/04/2019;177;Yes;Side;Nina-Pippa;Nina;Pippa;00:03:08;00:03:09;00:00:01;Pippa;Head touch;Nina;MC
+12/04/2019;177;Yes;Side;Nina-Pippa;Nina;Pippa;00:03:09;00:03:16;00:00:07;Pippa;Groom face;Nina;MC
+16/04/2019;197;Yes;Side;Max-Misha;Misha;Max;00:00:04;00:00:12;00:00:08;Misha;Groom other;Max;PH
+16/04/2019;197;Yes;Side;Max-Misha;Misha;Max;00:00:13;00:00:14;00:00:01;Misha;Raise;;PH
+16/04/2019;197;Yes;Side;Max-Misha;Misha;Max;00:00:14;00:00:14;00:00:01;Max;Raise;;PH
+16/04/2019;197;Yes;Side;Max-Misha;Misha;Max;00:02:04;00:02:14;00:00:10;Misha;Groom other;Max;MC
+16/04/2019;319;Yes;Side;Nikkie-Tess;;;00:06:10;00:06:20;00:00:10;Nikkie;Lean;;IRG
+16/04/2019;319;Yes;Side;Nikkie-Tess;;;00:06:15;00:06:20;00:00:04;Tess;Hold;;IRG
+16/04/2019;319;Yes;Side;Nikkie-Tess;;;00:06:20;00:06:20;00:00:00;Tess;Groom face;Nikkie;IRG
+17/04/2019;201;Yes;Side;Debbie-Nikkie;Debbie;Nikkie;00:03:16;00:03:23;00:00:08;Nikkie;Groom hand/arm;Debbie;PH
+17/04/2019;201;Yes;Side;Debbie-Nikkie;Debbie;Nikkie;00:03:16;00:03:24;00:00:08;Debbie;Groom other;Nikkie;PH
+17/04/2019;201;Yes;Side;Debbie-Nikkie;Debbie;Nikkie;00:03:24;00:03:25;00:00:01;Debbie;Elbow hold;Nikkie;PH
+17/04/2019;201;Yes;Side;Debbie-Nikkie;Debbie;Nikkie;00:03:24;00:03:26;00:00:01;Nikkie;Raise;;PH
+17/04/2019;201;Yes;Side;Debbie-Nikkie;Debbie;Nikkie;00:03:25;00:03:26;00:00:01;Debbie;Raise;;PH
+17/04/2019;201;Yes;Side;Debbie-Nikkie;Debbie;Nikkie;00:03:47;00:03:50;00:00:03;Debbie;Groom other;Nikkie;MC
+17/04/2019;201;Yes;Side;Debbie-Nikkie;Debbie;Nikkie;00:03:53;00:03:57;00:00:04;Nikkie;Self scratch;;MC
+17/04/2019;203;Yes;Side;Debbie-Nikkie;Debbie;Nikkie;00:12:05;00:12:13;00:00:08;Debbie;Groom face;Nikkie;PH
+17/04/2019;203;Yes;Side;Debbie-Nikkie;Debbie;Nikkie;00:12:14;00:12:14;00:00:01;Debbie;Head touch;Nikkie;PH
+17/04/2019;203;Yes;Side;Debbie-Nikkie;Debbie;Nikkie;00:12:14;00:12:15;00:00:01;Nikkie;Raise;;PH
+17/04/2019;203;Yes;Side;Debbie-Nikkie;Debbie;Nikkie;00:12:15;00:12:15;00:00:00;Debbie;Raise;;PH
+17/04/2019;203;Yes;Side;Debbie-Nikkie;Debbie;Nikkie;00:17:32;00:17:42;00:00:10;Nikkie;Groom other;Debbie;MC
+17/04/2019;204;Yes;Side;Mary-Nikkie;Nikkie;Mary;00:02:31;00:02:39;00:00:08;Nikkie;Groom hand/arm;Mary;PH
+17/04/2019;204;Yes;Side;Mary-Nikkie;Nikkie;Mary;00:02:41;00:02:41;00:00:01;Nikkie;Raise;;PH
+17/04/2019;204;Yes;Side;Mary-Nikkie;Nikkie;Mary;00:02:41;00:02:41;00:00:00;Mary;Raise;;PH
+17/04/2019;204;Yes;Side;Mary-Nikkie;Nikkie;Mary;00:05:43;00:05:48;00:00:05;Nikkie;Groom other;Mary;MC
+17/04/2019;204;Yes;Side;Mary-Nikkie;Nikkie;Mary;00:05:48;00:05:49;00:00:00;Nikkie;Nosewipe;;MC
+17/04/2019;204;Yes;Side;Mary-Nikkie;Nikkie;Mary;00:05:50;00:05:53;00:00:03;Nikkie;Groom other;Mary;MC
+17/04/2019;205;Yes;Side;Misha-Nikkie;Nikkie;Misha;00:02:48;00:02:56;00:00:08;Nikkie;Groom hand/arm;Misha;PH
+17/04/2019;205;Yes;Side;Misha-Nikkie;Nikkie;Misha;00:02:56;00:02:58;00:00:02;Nikkie;Raise;;PH
+17/04/2019;205;Yes;Side;Misha-Nikkie;Nikkie;Misha;00:02:57;00:02:58;00:00:01;Misha;Raise;;PH
+17/04/2019;205;Yes;Side;Misha-Nikkie;Nikkie;Misha;00:04:47;00:04:56;00:00:09;Misha;Groom armpit;Nikkie;MC
+17/04/2019;205;Yes;Side;Misha-Nikkie;Nikkie;Misha;00:04:47;00:04:47;00:00:00;Nikkie;Lean;;MC
+17/04/2019;205;Yes;Side;Misha-Nikkie;Nikkie;Misha;00:04:47;00:04:55;00:00:08;Nikkie;Groom hand/arm;Misha;MC
+17/04/2019;205;Yes;Side;Misha-Nikkie;Nikkie;Misha;00:04:56;00:04:57;00:00:01;Nikkie;Self scratch;;MC
+17/04/2019;205;Yes;Side;Misha-Nikkie;Nikkie;Misha;00:04:57;00:04:57;00:00:00;Nikkie;Groom face;Misha;MC
+18/04/2019;208;Yes;Side;Little Judy-Long John;Little Judy;Long John;00:00:45;00:00:51;00:00:06;Little Judy;Groom other;Long John;PH
+18/04/2019;208;Yes;Side;Little Judy-Long John;Little Judy;Long John;00:00:51;00:00:52;00:00:01;Little Judy;Raise;;PH
+18/04/2019;208;Yes;Side;Little Judy-Long John;Little Judy;Long John;00:00:52;00:00:52;00:00:00;Little Judy;Elbow touch;Long John;PH
+18/04/2019;208;Yes;Side;Little Judy-Long John;Little Judy;Long John;00:00:52;00:00:53;00:00:01;Long John;Raise;;PH
+18/04/2019;208;Yes;Side;Little Judy-Long John;Little Judy;Long John;00:00:52;00:00:53;00:00:01;Little Judy;Raise;;PH
+18/04/2019;208;Yes;Side;Little Judy-Long John;Little Judy;Long John;00:08:33;00:08:36;00:00:03;Long John;Groom hand/arm;Little Judy;MC
+18/04/2019;208;Yes;Side;Little Judy-Long John;Little Judy;Long John;00:08:36;00:08:37;00:00:02;Long John;Self scratch;;MC
+18/04/2019;208;Yes;Side;Little Judy-Long John;Little Judy;Long John;00:08:37;00:08:43;00:00:05;Long John;Groom hand/arm;Little Judy;MC
+18/04/2019;209;Yes;Back;Diana-Diz;Diz;Diana;00:00:04;00:00:05;00:00:01;Diana;Raise;;PH
+18/04/2019;209;Yes;Back;Diana-Diz;Diz;Diana;00:00:05;00:00:06;00:00:01;Diz;Torso;;PH
+18/04/2019;209;Yes;Back;Diana-Diz;Diz;Diana;00:00:05;00:00:05;00:00:00;Diana;Self scratch;;PH
+18/04/2019;209;Yes;Back;Diana-Diz;Diz;Diana;00:00:06;00:00:06;00:00:00;Diz;Raise;;PH
+18/04/2019;209;Yes;Back;Diana-Diz;Diz;Diana;00:00:06;00:00:06;00:00:00;Diana;Raise;;PH
+18/04/2019;209;Yes;Back;Diana-Diz;Diz;Diana;00:00:36;00:00:45;00:00:09;Diana;Groom other;Diz;MC
+18/04/2019;209;Yes;Back;Diana-Diz;Diz;Diana;00:00:45;00:00:46;00:00:01;Diana;Self scratch;;MC
+18/04/2019;210;Yes;Side;Misha-Pippa;;;00:01:52;00:01:52;00:00:00;Pippa;Groom face;Misha;IRG
+18/04/2019;214;Yes;Side;Dolly-Nikkie;Dolly;Nikkie;00:07:44;00:07:52;00:00:09;Nikkie;Groom other;Dolly;PH
+18/04/2019;214;Yes;Side;Dolly-Nikkie;Dolly;Nikkie;00:07:53;00:07:53;00:00:00;Dolly;Elbow touch;Nikkie;PH
+18/04/2019;214;Yes;Side;Dolly-Nikkie;Dolly;Nikkie;00:07:53;00:07:54;00:00:01;Dolly;Raise;;PH
+18/04/2019;214;Yes;Side;Dolly-Nikkie;Dolly;Nikkie;00:07:53;00:07:54;00:00:00;Nikkie;Raise;;PH
+18/04/2019;214;Yes;Side;Dolly-Nikkie;Dolly;Nikkie;00:09:35;00:09:45;00:00:10;Dolly;Groom hand/arm;Nikkie;MC
+18/04/2019;214;Yes;Side;Dolly-Nikkie;Dolly;Nikkie;00:09:35;00:09:45;00:00:10;Nikkie;Groom hand/arm;Dolly;MC
+18/04/2019;215;Yes;Back;Debbie-Doug;;;00:06:07;00:06:08;00:00:01;Debbie;Torso;;IRG
+18/04/2019;215;Yes;Back;Debbie-Doug;;;00:06:12;00:06:12;00:00:00;Debbie;Groom other;Doug;IRG
+18/04/2019;215;Yes;Back;Debbie-Doug;;;00:07:44;00:07:52;00:00:08;Doug;Groom other;Debbie;IRG
+19/04/2019;227;Yes;Side;Misha-Nikkie;Nikkie;Misha;00:02:34;00:02:42;00:00:08;Nikkie;Groom hand/arm;Misha;PH
+19/04/2019;227;Yes;Side;Misha-Nikkie;Nikkie;Misha;00:02:34;00:02:42;00:00:08;Misha;Groom other;Nikkie;PH
+19/04/2019;227;Yes;Side;Misha-Nikkie;Nikkie;Misha;00:02:42;00:02:42;00:00:01;Nikkie;Torso;;PH
+19/04/2019;227;Yes;Side;Misha-Nikkie;Nikkie;Misha;00:02:42;00:02:43;00:00:01;Nikkie;Raise;;PH
+19/04/2019;227;Yes;Side;Misha-Nikkie;Nikkie;Misha;00:02:43;00:02:43;00:00:00;Nikkie;Elbow hold;Misha;PH
+19/04/2019;227;Yes;Side;Misha-Nikkie;Nikkie;Misha;00:02:43;00:02:44;00:00:01;Nikkie;Raise;;PH
+19/04/2019;227;Yes;Side;Misha-Nikkie;Nikkie;Misha;00:02:43;00:02:44;00:00:01;Misha;Raise;;PH
+19/04/2019;227;Yes;Side;Misha-Nikkie;Nikkie;Misha;00:05:55;00:06:05;00:00:10;Misha;Groom face;Nikkie;MC
+19/04/2019;228;Yes;Side;Misha-Moyo;Moyo;Misha;00:00:27;00:00:34;00:00:06;Misha;Groom face;Moyo;PH
+19/04/2019;228;Yes;Side;Misha-Moyo;Moyo;Misha;00:00:34;00:00:34;00:00:01;Misha;Head shake;;PH
+19/04/2019;228;Yes;Side;Misha-Moyo;Moyo;Misha;00:00:34;00:00:35;00:00:01;Misha;Head touch;Moyo;PH
+19/04/2019;228;Yes;Side;Misha-Moyo;Moyo;Misha;00:00:35;00:00:37;00:00:02;Moyo;Raise;;PH
+19/04/2019;228;Yes;Side;Misha-Moyo;Moyo;Misha;00:00:36;00:00:37;00:00:01;Misha;Raise;;PH
+19/04/2019;228;Yes;Side;Misha-Moyo;Moyo;Misha;00:01:51;00:01:55;00:00:04;Misha;Groom hand/arm;Moyo;MC
+19/04/2019;228;Yes;Side;Misha-Moyo;Moyo;Misha;00:01:51;00:02:01;00:00:10;Moyo;Groom other;Misha;MC
+19/04/2019;324;Yes;Side;Martin-Misha;Misha;Martin;00:03:30;00:03:31;00:00:01;Misha;Torso;;PH
+19/04/2019;324;Yes;Side;Martin-Misha;Misha;Martin;00:03:31;00:03:31;00:00:01;Martin;Elbow touch;;PH
+19/04/2019;324;Yes;Side;Martin-Misha;Misha;Martin;00:03:34;00:03:35;00:00:01;Misha;Hold;;PH
+19/04/2019;324;Yes;Side;Martin-Misha;Misha;Martin;00:03:35;00:03:36;00:00:00;Martin;Raise;;PH
+19/04/2019;324;Yes;Side;Martin-Misha;Misha;Martin;00:04:47;00:04:50;00:00:03;Misha;Groom face;Martin;MC
+19/04/2019;324;Yes;Side;Martin-Misha;Misha;Martin;00:04:50;00:04:50;00:00:00;Misha;Nosewipe;;MC
+19/04/2019;324;Yes;Side;Martin-Misha;Misha;Martin;00:04:50;00:04:57;00:00:07;Misha;Groom face;Martin;MC
+20/04/2019;16;Yes;Side;Nina-Tilly;;;00:03:26;00:03:28;00:00:02;Nina;Torso;Tilly;IRG
+20/04/2019;16;Yes;Side;Nina-Tilly;;;00:03:28;00:03:36;00:00:08;Nina;Groom face;Tilly;IRG
+20/04/2019;230;Yes;Side;Mary-Masya;Masya;Mary;00:07:21;00:07:23;00:00:02;Masya;Groom other;Mary;PH
+20/04/2019;230;Yes;Side;Mary-Masya;Masya;Mary;00:07:24;00:07:25;00:00:00;Masya;Head touch;Mary;PH
+20/04/2019;230;Yes;Side;Mary-Masya;Masya;Mary;00:07:25;00:07:28;00:00:04;Mary;Torso;;PH
+20/04/2019;230;Yes;Side;Mary-Masya;Masya;Mary;00:07:26;00:07:27;00:00:01;Masya;Move to armpit;Mary;PH
+20/04/2019;230;Yes;Side;Mary-Masya;Masya;Mary;00:07:27;00:07:28;00:00:01;Masya;Groom armpit;Mary;PH
+20/04/2019;230;Yes;Side;Mary-Masya;Masya;Mary;00:07:29;00:07:29;00:00:01;Mary;Self scratch;;PH
+20/04/2019;230;Yes;Side;Mary-Masya;Masya;Mary;00:07:29;00:07:30;00:00:01;Masya;Elbow hold;Mary;PH
+20/04/2019;230;Yes;Side;Mary-Masya;Masya;Mary;00:07:30;00:07:30;00:00:00;Mary;Nosewipe;;PH
+20/04/2019;230;Yes;Side;Mary-Masya;Masya;Mary;00:07:30;00:07:31;00:00:01;Masya;Raise;;PH
+20/04/2019;230;Yes;Side;Mary-Masya;Masya;Mary;00:07:30;00:07:31;00:00:01;Mary;Raise;;PH
+20/04/2019;230;Yes;Side;Mary-Masya;Masya;Mary;00:09:50;00:09:57;00:00:07;Mary;Groom other;Masya;MC
+20/04/2019;230;Yes;Side;Mary-Masya;Masya;Mary;00:09:58;00:10:00;00:00:01;Masya;Groom face;Mary;MC
+20/04/2019;243;Yes;Side;Daisey-Diana;Daisey;Diana;00:00:54;00:00:59;00:00:04;Diana;Groom other;Daisey;PH
+20/04/2019;243;Yes;Side;Daisey-Diana;Daisey;Diana;00:00:54;00:01:02;00:00:08;Daisey;Groom hand/arm;Diana;PH
+20/04/2019;243;Yes;Side;Daisey-Diana;Daisey;Diana;00:01:03;00:01:03;00:00:01;Daisey;Bent;;PH
+20/04/2019;243;Yes;Side;Daisey-Diana;Daisey;Diana;00:01:03;00:01:04;00:00:00;Daisey;Raise;;PH
+20/04/2019;243;Yes;Side;Daisey-Diana;Daisey;Diana;00:01:04;00:01:04;00:00:00;Daisey;Elbow hold;Diana;PH
+20/04/2019;243;Yes;Side;Daisey-Diana;Daisey;Diana;00:01:04;00:01:04;00:00:00;Diana;Raise;;PH
+20/04/2019;243;Yes;Side;Daisey-Diana;Daisey;Diana;00:01:04;00:01:04;00:00:00;Daisey;Raise;;PH
+20/04/2019;243;Yes;Side;Daisey-Diana;Daisey;Diana;00:02:20;00:02:21;00:00:01;Daisey;Self scratch;;MC
+20/04/2019;243;Yes;Side;Daisey-Diana;Daisey;Diana;00:02:21;00:02:23;00:00:02;Daisey;Bent;;MC
+20/04/2019;243;Yes;Side;Daisey-Diana;Daisey;Diana;00:02:23;00:02:27;00:00:04;Diana;Groom hand/arm;;MC
+20/04/2019;243;Yes;Side;Daisey-Diana;Daisey;Diana;00:02:24;00:02:27;00:00:04;Daisey;Groom hand/arm;Diana;MC
+20/04/2019;247;Yes;Side;Daisey-Diana;Daisey;Diana;00:00:23;00:00:25;00:00:02;Daisey;Raise;;PH
+20/04/2019;247;Yes;Side;Daisey-Diana;Daisey;Diana;00:00:25;00:00:27;00:00:01;Diana;Groom hand/arm;Daisey;PH
+20/04/2019;247;Yes;Side;Daisey-Diana;Daisey;Diana;00:00:26;00:00:28;00:00:02;Daisey;Groom other;Diana;PH
+20/04/2019;247;Yes;Side;Daisey-Diana;Daisey;Diana;00:00:28;00:00:29;00:00:00;Daisey;Hand touch;Diana;PH
+20/04/2019;247;Yes;Side;Daisey-Diana;Daisey;Diana;00:00:29;00:00:29;00:00:01;Daisey;Raise;;PH
+20/04/2019;247;Yes;Side;Daisey-Diana;Daisey;Diana;00:00:29;00:00:31;00:00:02;Diana;Groom hand/arm;Daisey;PH
+20/04/2019;247;Yes;Side;Daisey-Diana;Daisey;Diana;00:00:31;00:00:33;00:00:02;Daisey;Raise;;PH
+20/04/2019;247;Yes;Side;Daisey-Diana;Daisey;Diana;00:00:32;00:00:33;00:00:01;Diana;Raise;;PH
+20/04/2019;247;Yes;Side;Daisey-Diana;Daisey;Diana;00:01:19;00:01:27;00:00:08;Daisey;Groom other;Diana;MC
+20/04/2019;247;Yes;Side;Daisey-Diana;Daisey;Diana;00:01:27;00:01:28;00:00:01;Daisey;Head touch;Diana;MC
+20/04/2019;249;Yes;Back;Little Judy-Long John;Little Judy;Long John;00:01:53;00:02:02;00:00:09;Little Judy;Groom other;Long John;PH
+20/04/2019;249;Yes;Back;Little Judy-Long John;Little Judy;Long John;00:02:02;00:02:03;00:00:01;Little Judy;Raise;;PH
+20/04/2019;249;Yes;Back;Little Judy-Long John;Little Judy;Long John;00:02:02;00:02:03;00:00:01;Long John;Raise;;PH
+20/04/2019;249;Yes;Back;Little Judy-Long John;Little Judy;Long John;00:10:19;00:10:29;00:00:10;Long John;Groom face;Little Judy;MC
+20/04/2019;251;Yes;Side;Diana-Nina;;;00:11:01;00:11:06;00:00:05;Nina;Head touch;Diana;IRG
+20/04/2019;251;Yes;Side;Diana-Nina;;;00:11:09;00:11:10;00:00:01;Nina;Groom face;Diana;IRG
+20/04/2019;328;Yes;Side;Nikkie-Tilly;;;00:04:12;00:04:13;00:00:00;Tilly;Nosewipe;;IRG
+20/04/2019;328;Yes;Side;Nikkie-Tilly;;;00:04:15;00:04:16;00:00:01;Tilly;Groom face;Nikkie;IRG
+20/04/2019;329;Yes;Side;Diana-Masya;;;00:00:06;00:00:07;00:00:01;Masya;Groom face;Diana;IRG
+20/04/2019;370;Yes;Side;Doug-Pippa;;;00:00:03;00:00:04;00:00:01;Doug;Head touch;Pippa;IRG
+20/04/2019;370;Yes;Side;Doug-Pippa;;;00:00:03;00:00:05;00:00:02;Pippa;Torso;;IRG
+20/04/2019;370;Yes;Side;Doug-Pippa;;;00:00:05;00:00:05;00:00:01;Doug;Hand touch;Pippa;IRG
+20/04/2019;370;Yes;Side;Doug-Pippa;;;00:00:07;00:00:11;00:00:04;Pippa;Groom face;Doug;IRG
+20/04/2019;370;Yes;Side;Doug-Pippa;;;00:00:07;00:00:11;00:00:04;Doug;Groom face;Pippa;IRG
+20/04/2019;371;Yes;Side;Nina-Pippa;;;00:00:52;00:00:56;00:00:04;Nina;Groom hand/arm;Pippa;IRG
+20/04/2019;371;Yes;Side;Nina-Pippa;;;00:00:56;00:00:56;00:00:00;Nina;Nosewipe;;IRG
+20/04/2019;371;Yes;Side;Nina-Pippa;;;00:00:57;00:00:57;00:00:00;Nina;Torso;;IRG
+20/04/2019;371;Yes;Side;Nina-Pippa;;;00:00:57;00:00:58;00:00:02;Pippa;Torso;;IRG
+20/04/2019;371;Yes;Side;Nina-Pippa;;;00:00:59;00:01:02;00:00:03;Nina;Groom other;Pippa;IRG
+20/04/2019;372;Yes;Side;Debbie-Doug;;;00:02:12;00:02:19;00:00:07;Debbie;Groom hand/arm;Doug;IRG
+20/04/2019;372;Yes;Side;Debbie-Doug;;;00:02:19;00:02:21;00:00:02;Debbie;Self scratch;;IRG
+20/04/2019;372;Yes;Side;Debbie-Doug;;;00:02:21;00:02:21;00:00:00;Debbie;Touch other;Doug;IRG
+20/04/2019;372;Yes;Side;Debbie-Doug;;;00:02:21;00:02:22;00:00:01;Debbie;Groom hand/arm;Doug;IRG
+22/04/2019;13;Yes;Side;Nina-Noel;Nina;Noel;00:02:11;00:02:18;00:00:07;Nina;Groom other;Noel;PH
+22/04/2019;13;Yes;Side;Nina-Noel;Nina;Noel;00:02:18;00:02:18;00:00:01;Noel;Torso;;PH
+22/04/2019;13;Yes;Side;Nina-Noel;Nina;Noel;00:02:18;00:02:18;00:00:00;Nina;Nosewipe;;PH
+22/04/2019;13;Yes;Side;Nina-Noel;Nina;Noel;00:02:18;00:02:19;00:00:01;Nina;Raise;;PH
+22/04/2019;13;Yes;Side;Nina-Noel;Nina;Noel;00:02:19;00:02:19;00:00:00;Noel;Nosewipe;;PH
+22/04/2019;13;Yes;Side;Nina-Noel;Nina;Noel;00:02:19;00:02:20;00:00:01;Nina;Move to armpit;Noel;PH
+22/04/2019;13;Yes;Side;Nina-Noel;Nina;Noel;00:02:20;00:02:21;00:00:01;Noel;Raise;;PH
+22/04/2019;13;Yes;Side;Nina-Noel;Nina;Noel;00:02:20;00:02:21;00:00:01;Nina;Elbow hold;Noel;PH
+22/04/2019;13;Yes;Side;Nina-Noel;Nina;Noel;00:02:57;00:03:05;00:00:08;Noel;Groom other;Nina;MC
+22/04/2019;13;Yes;Side;Nina-Noel;Nina;Noel;00:02:57;00:03:05;00:00:08;Nina;Groom other;Noel;MC
+23/04/2019;9;Yes;Side;Maxine-Noel;Maxine;Noel;00:03:08;00:03:16;00:00:08;Noel;Groom face;Maxine;PH
+23/04/2019;9;Yes;Side;Maxine-Noel;Maxine;Noel;00:03:08;00:03:16;00:00:08;Maxine;Groom other;Noel;PH
+23/04/2019;9;Yes;Side;Maxine-Noel;Maxine;Noel;00:03:16;00:03:16;00:00:01;Noel;Head shake;;PH
+23/04/2019;9;Yes;Side;Maxine-Noel;Maxine;Noel;00:03:16;00:03:16;00:00:00;Maxine;Head move;;PH
+23/04/2019;9;Yes;Side;Maxine-Noel;Maxine;Noel;00:03:16;00:03:18;00:00:02;Maxine;Raise;;PH
+23/04/2019;9;Yes;Side;Maxine-Noel;Maxine;Noel;00:03:16;00:03:18;00:00:02;Noel;Raise;;PH
+23/04/2019;9;Yes;Side;Maxine-Noel;Maxine;Noel;00:04:05;00:04:15;00:00:10;Noel;Groom other;Maxine;MC
+23/04/2019;264;Yes;Side;Daisey-Debbie;Debbie;Daisey;00:01:41;00:01:42;00:00:01;Debbie;Head touch;Daisey;PH
+23/04/2019;264;Yes;Side;Daisey-Debbie;Debbie;Daisey;00:01:41;00:01:42;00:00:01;Daisey;Raise;;PH
+23/04/2019;264;Yes;Side;Daisey-Debbie;Debbie;Daisey;00:01:42;00:01:42;00:00:01;Debbie;Raise;;PH
+23/04/2019;264;Yes;Side;Daisey-Debbie;Debbie;Daisey;00:02:50;00:02:54;00:00:04;Daisey;Groom other;Debbie;MC
+24/04/2019;265;Yes;Back;Misha-Moyo;Moyo;Misha;00:00:53;00:01:02;00:00:09;Moyo;Groom other;Misha;PH
+24/04/2019;265;Yes;Back;Misha-Moyo;Moyo;Misha;00:01:03;00:01:03;00:00:01;Moyo;Raise;;PH
+24/04/2019;265;Yes;Back;Misha-Moyo;Moyo;Misha;00:01:03;00:01:03;00:00:01;Misha;Raise;;PH
+24/04/2019;265;Yes;Back;Misha-Moyo;Moyo;Misha;00:04:07;00:04:17;00:00:10;Moyo;Groom other;Misha;MC
+24/04/2019;265;Yes;Back;Misha-Moyo;Moyo;Misha;00:04:07;00:04:17;00:00:10;Misha;Groom other;Moyo;MC
+29/04/2019;36;Yes;Back;Diana-Diz;Diana;Diz;00:02:04;00:02:04;00:00:00;Diz;Head move;;PH
+29/04/2019;36;Yes;Back;Diana-Diz;Diana;Diz;00:02:05;00:02:05;00:00:01;Diana;Head move;;PH
+29/04/2019;36;Yes;Back;Diana-Diz;Diana;Diz;00:02:05;00:02:07;00:00:01;Diana;Raise;;PH
+29/04/2019;36;Yes;Back;Diana-Diz;Diana;Diz;00:02:07;00:02:07;00:00:00;Diz;Elbow touch;Diana;PH
+29/04/2019;36;Yes;Back;Diana-Diz;Diana;Diz;00:02:08;00:02:09;00:00:01;Diana;Raise;;PH
+29/04/2019;36;Yes;Back;Diana-Diz;Diana;Diz;00:02:08;00:02:09;00:00:01;Diz;Raise;;PH
+29/04/2019;36;Yes;Back;Diana-Diz;Diana;Diz;00:05:49;00:05:59;00:00:10;Diz;Groom other;Diana;MC
+30/04/2019;43;Yes;Side;Debbie-Tess;Debbie;Tess;00:02:15;00:02:17;00:00:02;Tess;Groom face;Debbie;PH
+30/04/2019;43;Yes;Side;Debbie-Tess;Debbie;Tess;00:02:23;00:02:24;00:00:01;Debbie;Hand Grab;Tess;PH
+30/04/2019;43;Yes;Side;Debbie-Tess;Debbie;Tess;00:02:24;00:02:25;00:00:01;Debbie;Raise;;PH
+30/04/2019;43;Yes;Side;Debbie-Tess;Debbie;Tess;00:02:24;00:02:25;00:00:01;Tess;Raise;;PH
+30/04/2019;43;Yes;Side;Debbie-Tess;Debbie;Tess;00:03:11;00:03:17;00:00:05;Debbie;Groom other;Tess;MC
+30/04/2019;43;Yes;Side;Debbie-Tess;Debbie;Tess;00:03:15;00:03:20;00:00:05;Tess;Groom other;Debbie;MC
+30/04/2019;44;Yes;Side;Debbie-Dolly;Debbie;Dolly;00:00:37;00:00:45;00:00:07;Debbie;Groom other;Dolly;PH
+30/04/2019;44;Yes;Side;Debbie-Dolly;Debbie;Dolly;00:00:45;00:00:47;00:00:02;Debbie;Raise;;PH
+30/04/2019;44;Yes;Side;Debbie-Dolly;Debbie;Dolly;00:00:45;00:00:46;00:00:00;Dolly;Head move;;PH
+30/04/2019;44;Yes;Side;Debbie-Dolly;Debbie;Dolly;00:00:46;00:00:47;00:00:01;Dolly;Raise;;PH
+30/04/2019;44;Yes;Side;Debbie-Dolly;Debbie;Dolly;00:03:30;00:03:31;00:00:01;Debbie;Groom face;Dolly;MC
+30/04/2019;44;Yes;Side;Debbie-Dolly;Debbie;Dolly;00:03:31;00:03:32;00:00:01;Debbie;Head shake;;MC
+30/04/2019;44;Yes;Side;Debbie-Dolly;Debbie;Dolly;00:03:32;00:03:40;00:00:08;Debbie;Groom face;Dolly;MC
+30/04/2019;45;Yes;Back;Nina-Noel;Nina;Noel;00:02:48;00:02:57;00:00:09;Noel;Groom other;Nina;PH
+30/04/2019;45;Yes;Back;Nina-Noel;Nina;Noel;00:02:48;00:02:56;00:00:07;Nina;Groom other;Noel;PH
+30/04/2019;45;Yes;Back;Nina-Noel;Nina;Noel;00:02:56;00:02:56;00:00:00;Nina;Nosewipe;;PH
+30/04/2019;45;Yes;Back;Nina-Noel;Nina;Noel;00:02:56;00:02:56;00:00:00;Nina;Torso;;PH
+30/04/2019;45;Yes;Back;Nina-Noel;Nina;Noel;00:02:57;00:02:57;00:00:00;Nina;Head touch;Noel;PH
+30/04/2019;45;Yes;Back;Nina-Noel;Nina;Noel;00:02:57;00:02:58;00:00:01;Nina;Raise;;PH
+30/04/2019;45;Yes;Back;Nina-Noel;Nina;Noel;00:02:57;00:02:58;00:00:01;Noel;Raise;;PH
+30/04/2019;45;Yes;Back;Nina-Noel;Nina;Noel;00:14:13;00:14:23;00:00:10;Nina;Groom other;Noel;MC
+30/04/2019;46;Yes;Back;Nikkie-Tess;Nikkie;Tess;00:11:24;00:11:32;00:00:08;Nikkie;Groom other;Tess;PH
+30/04/2019;46;Yes;Back;Nikkie-Tess;Nikkie;Tess;00:11:32;00:11:33;00:00:01;Nikkie;Torso;;PH
+30/04/2019;46;Yes;Back;Nikkie-Tess;Nikkie;Tess;00:11:33;00:11:34;00:00:01;Tess;Raise;;PH
+30/04/2019;46;Yes;Back;Nikkie-Tess;Nikkie;Tess;00:11:33;00:11:34;00:00:01;Nikkie;Raise;;PH
+30/04/2019;46;Yes;Back;Nikkie-Tess;Nikkie;Tess;00:13:47;00:13:57;00:00:10;Nikkie;Groom other;Tess;MC
+30/04/2019;48;Yes;Side;Pippa-Tess;;;00:02:35;00:02:35;00:00:00;Tess;Nosewipe;;IRG
+30/04/2019;48;Yes;Side;Pippa-Tess;;;00:02:37;00:02:39;00:00:03;Pippa;Torso;;IRG
+30/04/2019;48;Yes;Side;Pippa-Tess;;;00:02:37;00:02:39;00:00:02;Tess;Head touch;Pippa;IRG
+30/04/2019;48;Yes;Side;Pippa-Tess;;;00:02:40;00:02:45;00:00:05;Tess;Groom face;Pippa;IRG
+30/04/2019;369;Yes;Side;Maxine-Misha;Maxine;Misha;00:01:37;00:01:43;00:00:06;Maxine;Groom other;Misha;PH
+30/04/2019;369;Yes;Side;Maxine-Misha;Maxine;Misha;00:01:43;00:01:44;00:00:00;Maxine;Elbow touch;Misha;PH
+30/04/2019;369;Yes;Side;Maxine-Misha;Maxine;Misha;00:01:44;00:01:44;00:00:01;Maxine;Self scratch;;PH
+30/04/2019;369;Yes;Side;Maxine-Misha;Maxine;Misha;00:01:44;00:01:45;00:00:01;Misha;Torso;;PH
+30/04/2019;369;Yes;Side;Maxine-Misha;Maxine;Misha;00:01:44;00:01:47;00:00:02;Maxine;Raise;;PH
+30/04/2019;369;Yes;Side;Maxine-Misha;Maxine;Misha;00:01:46;00:01:47;00:00:01;Misha;Raise;;PH
+30/04/2019;369;Yes;Side;Maxine-Misha;Maxine;Misha;00:03:57;00:04:07;00:00:10;Misha;Groom other;Maxine;MC
+30/04/2019;369;Yes;Side;Maxine-Misha;Maxine;Misha;00:03:57;00:04:07;00:00:10;Maxine;Groom other;Misha;MC
+02/05/2019;65;Yes;Side;Maggie-Moyo;Maggie;Moyo;00:00:59;00:01:08;00:00:09;Maggie;Groom face;Moyo;PH
+02/05/2019;65;Yes;Side;Maggie-Moyo;Maggie;Moyo;00:01:09;00:01:09;00:00:01;Maggie;Raise;;PH
+02/05/2019;65;Yes;Side;Maggie-Moyo;Maggie;Moyo;00:01:09;00:01:09;00:00:01;Moyo;Raise;;PH
+02/05/2019;65;Yes;Side;Maggie-Moyo;Maggie;Moyo;00:05:10;00:05:20;00:00:10;Maggie;Groom other;Moyo;MC
+02/05/2019;65;Yes;Side;Maggie-Moyo;Maggie;Moyo;00:05:10;00:05:20;00:00:10;Moyo;Groom other;Maggie;MC
+03/05/2019;74;Yes;Back;Dolly-Tilly;Tilly;Dolly;00:00:16;00:00:22;00:00:06;Tilly;Groom face;Dolly;PH
+03/05/2019;74;Yes;Back;Dolly-Tilly;Tilly;Dolly;00:00:23;00:00:25;00:00:01;Tilly;Self scratch;;PH
+03/05/2019;74;Yes;Back;Dolly-Tilly;Tilly;Dolly;00:00:25;00:00:25;00:00:00;Tilly;Hand Grab;Dolly;PH
+03/05/2019;74;Yes;Back;Dolly-Tilly;Tilly;Dolly;00:00:25;00:00:26;00:00:01;Tilly;Raise;;PH
+03/05/2019;74;Yes;Back;Dolly-Tilly;Tilly;Dolly;00:00:25;00:00:26;00:00:01;Dolly;Raise;;PH
+03/05/2019;74;Yes;Back;Dolly-Tilly;Tilly;Dolly;00:02:00;00:02:10;00:00:10;Tilly;Groom other;Dolly;MC
+03/05/2019;75;Yes;Back;Debbie-Tilly;Debbie;Tilly;00:07:32;00:07:40;00:00:07;Debbie;Groom face;Tilly;PH
+03/05/2019;75;Yes;Back;Debbie-Tilly;Debbie;Tilly;00:07:41;00:07:41;00:00:01;Debbie;Head shake;;PH
+03/05/2019;75;Yes;Back;Debbie-Tilly;Debbie;Tilly;00:07:41;00:07:42;00:00:01;Debbie;Raise;;PH
+03/05/2019;75;Yes;Back;Debbie-Tilly;Debbie;Tilly;00:07:42;00:07:42;00:00:01;Tilly;Raise;;PH
+03/05/2019;75;Yes;Back;Debbie-Tilly;Debbie;Tilly;00:09:25;00:09:27;00:00:02;Debbie;Groom face;Tilly;MC
+06/05/2019;143;Yes;Side;Debbie-Pippa;;;00:00:33;00:00:34;00:00:01;Debbie;Head shake;;IRG
+06/05/2019;143;Yes;Side;Debbie-Pippa;;;00:00:38;00:00:38;00:00:00;Pippa;Head touch;Debbie;IRG
+06/05/2019;143;Yes;Side;Debbie-Pippa;;;00:00:39;00:00:39;00:00:01;Pippa;Groom face;Debbie;IRG
+06/05/2019;144;Yes;Side;Dolly-Nikkie;Nikkie;Dolly;00:00:23;00:00:31;00:00:08;Nikkie;Groom other;Dolly;PH
+06/05/2019;144;Yes;Side;Dolly-Nikkie;Nikkie;Dolly;00:00:31;00:00:33;00:00:01;Nikkie;Hold;;PH
+06/05/2019;144;Yes;Side;Dolly-Nikkie;Nikkie;Dolly;00:00:32;00:00:32;00:00:01;Dolly;Torso;;PH
+06/05/2019;144;Yes;Side;Dolly-Nikkie;Nikkie;Dolly;00:00:32;00:00:33;00:00:01;Dolly;Raise;;PH
+06/05/2019;144;Yes;Side;Dolly-Nikkie;Nikkie;Dolly;00:00:33;00:00:33;00:00:00;Nikkie;Raise;;PH
+06/05/2019;144;Yes;Side;Dolly-Nikkie;Nikkie;Dolly;00:02:07;00:02:08;00:00:02;Dolly;Groom face;Nikkie;MC
+06/05/2019;144;Yes;Side;Dolly-Nikkie;Nikkie;Dolly;00:02:09;00:02:11;00:00:02;Dolly;Bent;;MC
+06/05/2019;144;Yes;Side;Dolly-Nikkie;Nikkie;Dolly;00:02:11;00:02:17;00:00:06;Dolly;Groom other;Nikkie;MC
+06/05/2019;144;Yes;Side;Dolly-Nikkie;Nikkie;Dolly;00:02:11;00:02:17;00:00:06;Nikkie;Groom other;Dolly;MC
+06/05/2019;146;Yes;Back;Diana-Diz;Diz;Diana;00:08:10;00:08:11;00:00:01;Diz;Touch other;Diana;PH
+06/05/2019;146;Yes;Back;Diana-Diz;Diz;Diana;00:08:11;00:08:13;00:00:02;Diana;Torso;;PH
+06/05/2019;146;Yes;Back;Diana-Diz;Diz;Diana;00:08:12;00:08:13;00:00:01;Diz;Self scratch;;PH
+06/05/2019;146;Yes;Back;Diana-Diz;Diz;Diana;00:08:13;00:08:14;00:00:01;Diana;Self scratch;;PH
+06/05/2019;146;Yes;Back;Diana-Diz;Diz;Diana;00:08:14;00:08:15;00:00:01;Diz;Raise;;PH
+06/05/2019;146;Yes;Back;Diana-Diz;Diz;Diana;00:08:15;00:08:15;00:00:01;Diana;Raise;;PH
+06/05/2019;146;Yes;Back;Diana-Diz;Diz;Diana;00:09:08;00:09:18;00:00:10;Diz;Groom other;Diana;MC
+06/05/2019;147;Yes;Side;Misha-Tess;Tess;Misha;00:00:10;00:00:11;00:00:01;Misha;Self scratch;;PH
+06/05/2019;147;Yes;Side;Misha-Tess;Tess;Misha;00:00:11;00:00:13;00:00:02;Tess;Hold;;PH
+06/05/2019;147;Yes;Side;Misha-Tess;Tess;Misha;00:00:11;00:00:12;00:00:01;Misha;Torso;;PH
+06/05/2019;147;Yes;Side;Misha-Tess;Tess;Misha;00:00:12;00:00:13;00:00:01;Misha;Raise;;PH
+06/05/2019;147;Yes;Side;Misha-Tess;Tess;Misha;00:02:20;00:02:30;00:00:10;Misha;Groom other;Tess;MC
+07/05/2019;159;Yes;Side;Dora-Nikkie;Nikkie;Dora;00:04:06;00:04:14;00:00:08;Nikkie;Groom other;Dora;PH
+07/05/2019;159;Yes;Side;Dora-Nikkie;Nikkie;Dora;00:04:06;00:04:13;00:00:07;Dora;Groom hand/arm;Nikkie;PH
+07/05/2019;159;Yes;Side;Dora-Nikkie;Nikkie;Dora;00:04:15;00:04:16;00:00:00;Nikkie;Torso;;PH
+07/05/2019;159;Yes;Side;Dora-Nikkie;Nikkie;Dora;00:04:16;00:04:16;00:00:00;Nikkie;Elbow hold;Dora;PH
+07/05/2019;159;Yes;Side;Dora-Nikkie;Nikkie;Dora;00:04:16;00:04:16;00:00:01;Dora;Raise;;PH
+07/05/2019;159;Yes;Side;Dora-Nikkie;Nikkie;Dora;00:04:16;00:04:16;00:00:01;Nikkie;Raise;;PH
+07/05/2019;159;Yes;Side;Dora-Nikkie;Nikkie;Dora;00:07:54;00:08:04;00:00:10;Nikkie;Groom face;Dora;MC
+07/05/2019;160;Yes;Back;Diana-Diz;Diz;Diana;00:00:03;00:00:04;00:00:00;Diana;Head touch;Diz;PH
+07/05/2019;160;Yes;Back;Diana-Diz;Diz;Diana;00:00:04;00:00:05;00:00:01;Diz;Torso;;PH
+07/05/2019;160;Yes;Back;Diana-Diz;Diz;Diana;00:00:05;00:00:09;00:00:04;Diana;Groom face;Diz;PH
+07/05/2019;160;Yes;Back;Diana-Diz;Diz;Diana;00:00:09;00:00:10;00:00:01;Diz;Raise;;PH
+07/05/2019;160;Yes;Back;Diana-Diz;Diz;Diana;00:00:10;00:00:10;00:00:00;Diana;Raise;;PH
+07/05/2019;160;Yes;Back;Diana-Diz;Diz;Diana;00:04:11;00:04:21;00:00:10;Diz;Groom other;Diana;MC
+07/05/2019;165;Yes;Side;Tilly-Trixie;Tilly;Trixie;00:05:49;00:05:55;00:00:07;Tilly;Groom face;Trixie;PH
+07/05/2019;165;Yes;Side;Tilly-Trixie;Tilly;Trixie;00:05:53;00:05:58;00:00:05;Trixie;Groom face;Tilly;PH
+07/05/2019;165;Yes;Side;Tilly-Trixie;Tilly;Trixie;00:05:58;00:05:59;00:00:01;Tilly;Raise;;PH
+07/05/2019;165;Yes;Side;Tilly-Trixie;Tilly;Trixie;00:05:58;00:05:59;00:00:01;Trixie;Raise;;PH
+07/05/2019;165;Yes;Side;Tilly-Trixie;Tilly;Trixie;00:08:06;00:08:15;00:00:09;Tilly;Groom face;Trixie;MC
+07/05/2019;165;Yes;Side;Tilly-Trixie;Tilly;Trixie;00:08:06;00:08:15;00:00:09;Trixie;Groom face;Tilly;MC
+07/05/2019;166;Yes;Side;Mary-Masya;Masya;Mary;00:16:20;00:16:24;00:00:04;Masya;Groom face;Mary;PH
+07/05/2019;166;Yes;Side;Mary-Masya;Masya;Mary;00:16:29;00:16:29;00:00:01;Masya;Elbow hold;Mary;PH
+07/05/2019;166;Yes;Side;Mary-Masya;Masya;Mary;00:16:29;00:16:30;00:00:01;Masya;Raise;;PH
+07/05/2019;166;Yes;Side;Mary-Masya;Masya;Mary;00:16:29;00:16:30;00:00:00;Mary;Raise;;PH
+07/05/2019;166;Yes;Side;Mary-Masya;Masya;Mary;00:17:15;00:17:23;00:00:08;Mary;Groom face;Masya;MC
+09/05/2019;181;Yes;Side;Misha-Moyo;Moyo;Misha;00:00:23;00:00:31;00:00:08;Misha;Groom other;Moyo;PH
+09/05/2019;181;Yes;Side;Misha-Moyo;Moyo;Misha;00:00:23;00:00:31;00:00:09;Moyo;Groom other;Misha;PH
+09/05/2019;181;Yes;Side;Misha-Moyo;Moyo;Misha;00:00:32;00:00:33;00:00:01;Moyo;Raise;;PH
+09/05/2019;181;Yes;Side;Misha-Moyo;Moyo;Misha;00:00:32;00:00:33;00:00:00;Misha;Raise;;PH
+09/05/2019;181;Yes;Side;Misha-Moyo;Moyo;Misha;00:02:14;00:02:24;00:00:10;Misha;Groom other;Moyo;MC
+09/05/2019;181;Yes;Side;Misha-Moyo;Moyo;Misha;00:02:19;00:02:24;00:00:05;Moyo;Groom face;Misha;MC
+09/05/2019;182;Yes;Back;Doug-Nikkie;Nikkie;Doug;00:01:18;00:01:28;00:00:09;Doug;Groom other;Nikkie;PH
+09/05/2019;182;Yes;Back;Doug-Nikkie;Nikkie;Doug;00:01:18;00:01:27;00:00:08;Nikkie;Groom hand/arm;Doug;PH
+09/05/2019;182;Yes;Back;Doug-Nikkie;Nikkie;Doug;00:01:27;00:01:28;00:00:01;Nikkie;Nosewipe;;PH
+09/05/2019;182;Yes;Back;Doug-Nikkie;Nikkie;Doug;00:01:28;00:01:28;00:00:01;Nikkie;Raise;;PH
+09/05/2019;182;Yes;Back;Doug-Nikkie;Nikkie;Doug;00:01:28;00:01:28;00:00:01;Doug;Raise;;PH
+09/05/2019;182;Yes;Back;Doug-Nikkie;Nikkie;Doug;00:06:37;00:06:47;00:00:10;Doug;Groom other;Nikkie;MC
+09/05/2019;182;Yes;Back;Doug-Nikkie;Nikkie;Doug;00:06:37;00:06:47;00:00:10;Nikkie;Groom hand/arm;Doug;MC
+09/05/2019;184;Yes;Back;Little Jane-Little Jenkins;Little Jane;Little Jenkins;00:08:10;00:08:20;00:00:10;Little Jane;Groom face;Little Jenkins;MC
+09/05/2019;184;Yes;Back;Little Jane-Little Jenkins;Little Jane;Little Jenkins;00:10:25;00:10:34;00:00:09;Little Jane;Groom face;Little Jenkins;PH
+09/05/2019;184;Yes;Back;Little Jane-Little Jenkins;Little Jane;Little Jenkins;00:10:34;00:10:34;00:00:01;Little Jane;Elbow hold;Little Jenkins;PH
+09/05/2019;184;Yes;Back;Little Jane-Little Jenkins;Little Jane;Little Jenkins;00:10:34;00:10:35;00:00:01;Little Jenkins;Raise;;PH
+09/05/2019;184;Yes;Back;Little Jane-Little Jenkins;Little Jane;Little Jenkins;00:10:34;00:10:35;00:00:00;Little Jane;Raise;;PH
+09/05/2019;184;Yes;Back;Little Jane-Little Jenkins;Little Jane;Little Jenkins;00:11:53;00:12:03;00:00:10;Little Jane;Groom face;Little Jenkins;MC
+09/05/2019;185;Yes;Side;Danny-Dora;;;00:12:33;00:12:33;00:00:01;Danny;Touch other;Dora;IRG
+09/05/2019;185;Yes;Side;Danny-Dora;;;00:12:33;00:12:33;00:00:01;Dora;Hand touch;Danny;IRG
+09/05/2019;185;Yes;Side;Danny-Dora;;;00:12:34;00:12:37;00:00:03;Dora;Torso;;IRG
+09/05/2019;185;Yes;Side;Danny-Dora;;;00:12:37;00:12:42;00:00:05;Dora;Self scratch;;IRG
+09/05/2019;185;Yes;Side;Danny-Dora;;;00:12:38;00:12:38;00:00:00;Danny;Nosewipe;;IRG
+09/05/2019;185;Yes;Side;Danny-Dora;;;00:12:43;00:12:43;00:00:00;Dora;Groom face;Danny;IRG
+09/05/2019;186;Yes;Side;Little Jane-Little Judy;;;00:23:26;00:23:26;00:00:00;Little Judy;Nosewipe;;IRG
+09/05/2019;186;Yes;Side;Little Jane-Little Judy;;;00:23:27;00:23:32;00:00:06;Little Judy;Self scratch;;IRG
+09/05/2019;186;Yes;Side;Little Jane-Little Judy;;;00:23:30;00:23:32;00:00:01;Little Jane;Torso;;IRG
+09/05/2019;186;Yes;Side;Little Jane-Little Judy;;;00:23:34;00:23:35;00:00:01;Little Jane;Groom face;Little Judy;IRG
+09/05/2019;188;Yes;Side;Doug-Pippa;;;00:00:33;00:00:33;00:00:00;Pippa;Touch other;Doug;IRG
+09/05/2019;188;Yes;Side;Doug-Pippa;;;00:00:35;00:00:36;00:00:01;Doug;Torso;;IRG
+09/05/2019;188;Yes;Side;Doug-Pippa;;;00:00:37;00:00:37;00:00:00;Doug;Groom face;Pippa;IRG
+09/05/2019;189;Yes;Back;Little Jane-Pippa;;;00:00:42;00:00:43;00:00:01;Pippa;Torso;;IRG
+09/05/2019;189;Yes;Back;Little Jane-Pippa;;;00:00:44;00:00:45;00:00:01;Pippa;Head touch;;IRG
+09/05/2019;189;Yes;Back;Little Jane-Pippa;;;00:00:46;00:00:47;00:00:01;Pippa;Groom face;Little Jane;IRG
+22/05/2019;396;Yes;Side;Charity-Moyo;Charity;Moyo;00:01:35;00:01:41;00:00:07;Charity;Groom face;Moyo;PH
+22/05/2019;396;Yes;Side;Charity-Moyo;Charity;Moyo;00:01:41;00:01:43;00:00:01;Charity;Self scratch;;PH
+22/05/2019;396;Yes;Side;Charity-Moyo;Charity;Moyo;00:01:43;00:01:44;00:00:01;Charity;Elbow hold;Moyo;PH
+22/05/2019;396;Yes;Side;Charity-Moyo;Charity;Moyo;00:01:44;00:01:45;00:00:01;Charity;Raise;;PH
+22/05/2019;396;Yes;Side;Charity-Moyo;Charity;Moyo;00:01:44;00:01:45;00:00:01;Moyo;Raise;;PH
+22/05/2019;396;Yes;Side;Charity-Moyo;Charity;Moyo;00:03:11;00:03:21;00:00:10;Charity;Groom other;Moyo;MC
+22/05/2019;222;Yes;Side;Doug-Vis;Vis;Doug;00:03:53;00:03:59;00:00:05;Doug;Groom other;Vis;PH
+22/05/2019;222;Yes;Side;Doug-Vis;Vis;Doug;00:03:53;00:04:00;00:00:06;Vis;Groom hand/arm;Doug;PH
+22/05/2019;222;Yes;Side;Doug-Vis;Vis;Doug;00:03:59;00:04:00;00:00:01;Doug;Self scratch;;PH
+22/05/2019;222;Yes;Side;Doug-Vis;Vis;Doug;00:04:02;00:04:03;00:00:00;Vis;Raise;;PH
+22/05/2019;222;Yes;Side;Doug-Vis;Vis;Doug;00:04:03;00:04:03;00:00:00;Vis;Elbow hold;Doug;PH
+22/05/2019;222;Yes;Side;Doug-Vis;Vis;Doug;00:04:03;00:04:03;00:00:00;Vis;Raise;;PH
+22/05/2019;222;Yes;Side;Doug-Vis;Vis;Doug;00:04:03;00:04:03;00:00:00;Doug;Raise;;PH
+22/05/2019;222;Yes;Side;Doug-Vis;Vis;Doug;00:05:56;00:06:06;00:00:10;Vis;Groom hand/arm;Doug;MC
+22/05/2019;222;Yes;Side;Doug-Vis;Vis;Doug;00:05:56;00:06:06;00:00:10;Doug;Groom other;Vis;MC
+24/05/2019;232;Yes;Back;David-Doug;Doug;David;00:02:21;00:02:23;00:00:02;David;Groom face;Doug;PH
+24/05/2019;232;Yes;Back;David-Doug;Doug;David;00:02:30;00:02:30;00:00:00;David;Head move;;PH
+24/05/2019;232;Yes;Back;David-Doug;Doug;David;00:02:30;00:02:30;00:00:00;David;Elbow hold;Doug;PH
+24/05/2019;232;Yes;Back;David-Doug;Doug;David;00:02:30;00:02:31;00:00:01;David;Raise;;PH
+24/05/2019;232;Yes;Back;David-Doug;Doug;David;00:02:30;00:02:31;00:00:01;Doug;Raise;;PH
+24/05/2019;232;Yes;Back;David-Doug;Doug;David;00:06:51;00:07:01;00:00:10;David;Groom hand/arm;Doug;MC
+24/05/2019;232;Yes;Back;David-Doug;Doug;David;00:06:57;00:06:57;00:00:01;Doug;Self scratch;;MC
+24/05/2019;236;Yes;Side;Doug-Nikkie;Nikkie;Doug;00:02:40;00:02:46;00:00:06;Doug;Groom hand/arm;Nikkie;PH
+24/05/2019;236;Yes;Side;Doug-Nikkie;Nikkie;Doug;00:02:40;00:02:48;00:00:08;Nikkie;Groom hand/arm;Doug;PH
+24/05/2019;236;Yes;Side;Doug-Nikkie;Nikkie;Doug;00:02:48;00:02:49;00:00:00;Nikkie;Torso;;PH
+24/05/2019;236;Yes;Side;Doug-Nikkie;Nikkie;Doug;00:02:49;00:02:49;00:00:00;Nikkie;Hand touch;Doug;PH
+24/05/2019;236;Yes;Side;Doug-Nikkie;Nikkie;Doug;00:02:49;00:02:50;00:00:01;Doug;Raise;;PH
+24/05/2019;236;Yes;Side;Doug-Nikkie;Nikkie;Doug;00:02:49;00:02:50;00:00:01;Nikkie;Raise;;PH
+24/05/2019;236;Yes;Side;Doug-Nikkie;Nikkie;Doug;00:04:49;00:04:59;00:00:10;Doug;Groom hand/arm;Nikkie;MC
+24/05/2019;236;Yes;Side;Doug-Nikkie;Nikkie;Doug;00:04:49;00:04:59;00:00:10;Nikkie;Groom hand/arm;Doug;MC
+25/05/2019;252;Yes;Side;Dolly-Nina;Nina;Dolly;00:00:41;00:00:43;00:00:02;Nina;Self scratch;;PH
+25/05/2019;252;Yes;Side;Dolly-Nina;Nina;Dolly;00:00:43;00:00:44;00:00:01;Nina;Torso;;PH
+25/05/2019;252;Yes;Side;Dolly-Nina;Nina;Dolly;00:00:45;00:00:46;00:00:01;Nina;Elbow touch;Dolly;PH
+25/05/2019;252;Yes;Side;Dolly-Nina;Nina;Dolly;00:00:46;00:00:47;00:00:01;Dolly;Self scratch;;PH
+25/05/2019;252;Yes;Side;Dolly-Nina;Nina;Dolly;00:00:46;00:00:47;00:00:01;Nina;Raise;;PH
+25/05/2019;252;Yes;Side;Dolly-Nina;Nina;Dolly;00:00:47;00:00:47;00:00:00;Dolly;Move to armpit;Nina;PH
+25/05/2019;252;Yes;Side;Dolly-Nina;Nina;Dolly;00:00:47;00:00:47;00:00:00;Dolly;Raise;;PH
+25/05/2019;252;Yes;Side;Dolly-Nina;Nina;Dolly;00:03:07;00:03:17;00:00:10;Dolly;Groom other;Nina;MC
+25/05/2019;253;Yes;Side;Doug-Nikkie;Nikkie;Doug;00:01:52;00:02:01;00:00:08;Nikkie;Groom hand/arm;Doug;PH
+25/05/2019;253;Yes;Side;Doug-Nikkie;Nikkie;Doug;00:02:01;00:02:01;00:00:00;Nikkie;Torso;;PH
+25/05/2019;253;Yes;Side;Doug-Nikkie;Nikkie;Doug;00:02:01;00:02:01;00:00:00;Nikkie;Nosewipe;;PH
+25/05/2019;253;Yes;Side;Doug-Nikkie;Nikkie;Doug;00:02:01;00:02:02;00:00:01;Nikkie;Raise;;PH
+25/05/2019;253;Yes;Side;Doug-Nikkie;Nikkie;Doug;00:02:02;00:02:02;00:00:01;Doug;Raise;;PH
+25/05/2019;253;Yes;Side;Doug-Nikkie;Nikkie;Doug;00:08:42;00:08:45;00:00:03;Nikkie;Self scratch;;MC
+25/05/2019;253;Yes;Side;Doug-Nikkie;Nikkie;Doug;00:08:47;00:08:52;00:00:06;Nikkie;Groom face;Doug;MC
+25/05/2019;254;Yes;Side;Debbie-Tess;Debbie;Tess;00:00:10;00:00:15;00:00:05;Tess;Groom face;Debbie;PH
+25/05/2019;254;Yes;Side;Debbie-Tess;Debbie;Tess;00:00:15;00:00:17;00:00:02;Tess;Self scratch;;PH
+25/05/2019;254;Yes;Side;Debbie-Tess;Debbie;Tess;00:00:16;00:00:17;00:00:01;Debbie;Raise;;PH
+25/05/2019;254;Yes;Side;Debbie-Tess;Debbie;Tess;00:00:17;00:00:20;00:00:04;Debbie;Hold;;PH
+25/05/2019;254;Yes;Side;Debbie-Tess;Debbie;Tess;00:00:19;00:00:20;00:00:01;Tess;Raise;;PH
+25/05/2019;254;Yes;Side;Debbie-Tess;Debbie;Tess;00:02:44;00:02:54;00:00:10;Debbie;Groom other;Tess;MC
+25/05/2019;255;Yes;Side;Misha-Noel;Noel;Misha;00:00:23;00:00:32;00:00:09;Misha;Groom face;Noel;PH
+25/05/2019;255;Yes;Side;Misha-Noel;Noel;Misha;00:00:32;00:00:32;00:00:00;Noel;Head move;;PH
+25/05/2019;255;Yes;Side;Misha-Noel;Noel;Misha;00:00:32;00:00:33;00:00:01;Noel;Raise;;PH
+25/05/2019;255;Yes;Side;Misha-Noel;Noel;Misha;00:00:33;00:00:33;00:00:00;Misha;Raise;;PH
+25/05/2019;255;Yes;Side;Misha-Noel;Noel;Misha;00:02:39;00:02:49;00:00:10;Noel;Head touch;Misha;MC
+25/05/2019;255;Yes;Side;Misha-Noel;Noel;Misha;00:02:50;00:02:51;00:00:01;Noel;Elbow hold;Misha;MC
+25/05/2019;256;Yes;Side;Dora-Nikkie;Nikkie;Dora;00:02:06;00:02:07;00:00:01;Nikkie;Move to armpit;Dora;PH
+25/05/2019;256;Yes;Side;Dora-Nikkie;Nikkie;Dora;00:02:06;00:02:07;00:00:01;Nikkie;Elbow touch;Dora;PH
+25/05/2019;256;Yes;Side;Dora-Nikkie;Nikkie;Dora;00:02:07;00:02:08;00:00:01;Nikkie;Raise;;PH
+25/05/2019;256;Yes;Side;Dora-Nikkie;Nikkie;Dora;00:02:07;00:02:08;00:00:00;Dora;Raise;;PH
+25/05/2019;256;Yes;Side;Dora-Nikkie;Nikkie;Dora;00:02:44;00:02:49;00:00:05;Dora;Groom hand/arm;Nikkie;MC
+25/05/2019;256;Yes;Side;Dora-Nikkie;Nikkie;Dora;00:02:53;00:02:54;00:00:02;Dora;Self scratch;;MC
+25/05/2019;260;Yes;Side;Doug-Little Judy;;;00:01:02;00:01:02;00:00:01;Little Judy;Nosewipe;;IRG
+25/05/2019;260;Yes;Side;Doug-Little Judy;;;00:01:04;00:01:08;00:00:04;Little Judy;Groom other;Doug;IRG
+25/05/2019;260;Yes;Side;Doug-Little Judy;;;00:01:08;00:01:08;00:00:00;Doug;Torso;;IRG
+25/05/2019;260;Yes;Side;Doug-Little Judy;;;00:01:09;00:01:10;00:00:01;Doug;Head touch;Little Judy;IRG
+25/05/2019;260;Yes;Side;Doug-Little Judy;;;00:01:10;00:01:10;00:00:01;Doug;Groom face;Little Judy;IRG
+25/05/2019;261;Yes;Side;Nikkie-Pippa;;;00:00:10;00:00:11;00:00:01;Pippa;Torso;;IRG
+25/05/2019;261;Yes;Side;Nikkie-Pippa;;;00:00:11;00:00:13;00:00:02;Nikkie;Groom hand/arm;Pippa;IRG
+28/05/2019;270;Yes;Back;Dora-Nikkie;Nikkie;Dora;00:02:34;00:02:43;00:00:09;Nikkie;Groom other;Dora;PH
+28/05/2019;270;Yes;Back;Dora-Nikkie;Nikkie;Dora;00:02:34;00:02:43;00:00:08;Dora;Groom other;Nikkie;PH
+28/05/2019;270;Yes;Back;Dora-Nikkie;Nikkie;Dora;00:02:43;00:02:44;00:00:01;Nikkie;Raise;;PH
+28/05/2019;270;Yes;Back;Dora-Nikkie;Nikkie;Dora;00:02:44;00:02:44;00:00:01;Dora;Raise;;PH
+28/05/2019;270;Yes;Back;Dora-Nikkie;Nikkie;Dora;00:13:48;00:13:55;00:00:07;Nikkie;Groom face;Dora;MC
+28/05/2019;270;Yes;Back;Dora-Nikkie;Nikkie;Dora;00:13:55;00:13:56;00:00:01;Nikkie;Self scratch;;MC
+28/05/2019;270;Yes;Back;Dora-Nikkie;Nikkie;Dora;00:13:56;00:13:58;00:00:02;Nikkie;Groom face;Dora;MC
+28/05/2019;271;Yes;Side;Doug-Pippa;;;00:12:04;00:12:05;00:00:01;Doug;Self scratch;;IRG
+28/05/2019;271;Yes;Side;Doug-Pippa;;;00:12:05;00:12:05;00:00:00;Doug;Torso;;IRG
+28/05/2019;271;Yes;Side;Doug-Pippa;;;00:12:05;00:12:05;00:00:00;Doug;Head touch;Pippa;IRG
+28/05/2019;271;Yes;Side;Doug-Pippa;;;00:12:06;00:12:07;00:00:01;Doug;Groom face;Pippa;IRG
+28/05/2019;272;Yes;Back;Doug-Misha;Doug;Misha;00:02:51;00:02:57;00:00:05;Doug;Groom other;Misha;PH
+28/05/2019;272;Yes;Back;Doug-Misha;Doug;Misha;00:02:51;00:03:00;00:00:09;Misha;Groom other;Doug;PH
+28/05/2019;272;Yes;Back;Doug-Misha;Doug;Misha;00:03:00;00:03:01;00:00:01;Doug;Raise;;PH
+28/05/2019;272;Yes;Back;Doug-Misha;Doug;Misha;00:03:01;00:03:01;00:00:01;Misha;Raise;;PH
+28/05/2019;272;Yes;Back;Doug-Misha;Doug;Misha;00:11:38;00:11:38;00:00:00;Doug;Raise;;MC
+28/05/2019;272;Yes;Back;Doug-Misha;Doug;Misha;00:11:38;00:11:48;00:00:10;Misha;Groom other;Doug;MC
+28/05/2019;272;Yes;Back;Doug-Misha;Doug;Misha;00:11:38;00:11:48;00:00:10;Doug;Groom other;Misha;MC
+28/05/2019;273;Yes;Side;Misha-Vis;;;00:12:05;00:12:05;00:00:00;Misha;Nosewipe;;IRG
+28/05/2019;273;Yes;Side;Misha-Vis;;;00:12:09;00:12:11;00:00:02;Misha;Groom other;Vis;IRG
+28/05/2019;279;Yes;Side;Doug-Little Judy;;;00:08:29;00:08:32;00:00:03;Little Judy;Groom hand/arm;Doug;IRG
+28/05/2019;279;Yes;Side;Doug-Little Judy;;;00:08:37;00:08:38;00:00:00;Doug;Torso;;IRG
+28/05/2019;279;Yes;Side;Doug-Little Judy;;;00:08:39;00:08:39;00:00:00;Doug;Groom face;Little Judy;IRG
+28/05/2019;280;Yes;Side;Dolly-Tilly;Dolly;Tilly;00:21:16;00:21:16;00:00:00;Dolly;Elbow hold;Tilly;PH
+28/05/2019;280;Yes;Side;Dolly-Tilly;Dolly;Tilly;00:21:16;00:21:17;00:00:01;Dolly;Raise;;PH
+28/05/2019;280;Yes;Side;Dolly-Tilly;Dolly;Tilly;00:21:16;00:21:17;00:00:01;Tilly;Raise;;PH
+28/05/2019;280;Yes;Side;Dolly-Tilly;Dolly;Tilly;00:22:10;00:22:20;00:00:10;Tilly;Groom face;Dolly;MC
+28/05/2019;281;Yes;Back;Maggie-Noel;Noel;Maggie;00:00:46;00:00:55;00:00:09;Maggie;Groom face;Noel;PH
+28/05/2019;281;Yes;Back;Maggie-Noel;Noel;Maggie;00:00:46;00:00:55;00:00:09;Noel;Groom face;Maggie;PH
+28/05/2019;281;Yes;Back;Maggie-Noel;Noel;Maggie;00:00:56;00:00:56;00:00:00;Noel;Elbow hold;Maggie;PH
+28/05/2019;281;Yes;Back;Maggie-Noel;Noel;Maggie;00:00:56;00:00:56;00:00:00;Noel;Hand Grab;Maggie;PH
+28/05/2019;281;Yes;Back;Maggie-Noel;Noel;Maggie;00:00:56;00:00:56;00:00:00;Maggie;Raise;;PH
+28/05/2019;281;Yes;Back;Maggie-Noel;Noel;Maggie;00:00:56;00:00:56;00:00:00;Noel;Raise;;PH
+28/05/2019;281;Yes;Back;Maggie-Noel;Noel;Maggie;00:03:31;00:03:41;00:00:10;Noel;Groom face;Noel;MC
+28/05/2019;283;Yes;Side;Doug-Vis;;;00:00:37;00:00:38;00:00:00;Doug;Groom other;Vis;IRG
+28/05/2019;284;Yes;Back;Little Jane-Little Judy;Little Jane;Little Judy;00:02:43;00:02:47;00:00:05;Little Jane;Groom face;Little Judy;PH
+28/05/2019;284;Yes;Back;Little Jane-Little Judy;Little Jane;Little Judy;00:02:51;00:02:51;00:00:00;Little Jane;Head move;;PH
+28/05/2019;284;Yes;Back;Little Jane-Little Judy;Little Jane;Little Judy;00:02:52;00:02:52;00:00:00;Little Jane;Elbow hold;Little Judy;PH
+28/05/2019;284;Yes;Back;Little Jane-Little Judy;Little Jane;Little Judy;00:02:52;00:02:52;00:00:00;Little Jane;Head touch;Little Judy;PH
+28/05/2019;284;Yes;Back;Little Jane-Little Judy;Little Jane;Little Judy;00:02:52;00:02:52;00:00:01;Little Jane;Raise;;PH
+28/05/2019;284;Yes;Back;Little Jane-Little Judy;Little Jane;Little Judy;00:02:52;00:02:52;00:00:00;Little Judy;Raise;;PH
+28/05/2019;284;Yes;Back;Little Jane-Little Judy;Little Jane;Little Judy;00:05:05;00:05:15;00:00:10;Little Jane;Groom face;Little Judy;MC
+29/05/2019;289;Yes;Side;Diana-Doug;;;00:00:04;00:00:10;00:00:06;Doug;Groom face;Diana;IRG
+29/05/2019;290;Yes;Side;Dolly-Doug;Doug;Dolly;00:03:23;00:03:24;00:00:01;Doug;Head touch;Dolly;PH
+29/05/2019;290;Yes;Side;Dolly-Doug;Doug;Dolly;00:03:24;00:03:32;00:00:08;Doug;Groom face;Dolly;PH
+29/05/2019;290;Yes;Side;Dolly-Doug;Doug;Dolly;00:03:32;00:03:33;00:00:01;Dolly;Raise;;PH
+29/05/2019;290;Yes;Side;Dolly-Doug;Doug;Dolly;00:03:33;00:03:33;00:00:01;Doug;Raise;;PH
+29/05/2019;290;Yes;Side;Dolly-Doug;Doug;Dolly;00:05:10;00:05:20;00:00:10;Doug;Groom other;Dolly;MC
+29/05/2019;290;Yes;Side;Dolly-Doug;Doug;Dolly;00:05:10;00:05:13;00:00:03;Dolly;Groom other;Doug;MC
+29/05/2019;291;Yes;Side;Debbie-Nikkie;Debbie;Nikkie;00:01:13;00:01:20;00:00:07;Nikkie;Groom other;Debbie;PH
+29/05/2019;291;Yes;Side;Debbie-Nikkie;Debbie;Nikkie;00:01:13;00:01:20;00:00:07;Debbie;Groom face;Nikkie;PH
+29/05/2019;291;Yes;Side;Debbie-Nikkie;Debbie;Nikkie;00:01:22;00:01:23;00:00:01;Debbie;Hold;;PH
+29/05/2019;291;Yes;Side;Debbie-Nikkie;Debbie;Nikkie;00:01:23;00:01:23;00:00:01;Nikkie;Raise;;PH
+29/05/2019;291;Yes;Side;Debbie-Nikkie;Debbie;Nikkie;00:01:23;00:01:23;00:00:00;Debbie;Raise;;PH
+29/05/2019;291;Yes;Side;Debbie-Nikkie;Debbie;Nikkie;00:05:11;00:05:21;00:00:10;Debbie;Groom face;Nikkie;MC
+29/05/2019;298;Yes;Back;Moyo-Nikkie;Nikkie;Moyo;00:14:08;00:14:14;00:00:05;Moyo;Groom other;Nikkie;PH
+29/05/2019;298;Yes;Back;Moyo-Nikkie;Nikkie;Moyo;00:14:16;00:14:17;00:00:01;Nikkie;Torso;;PH
+29/05/2019;298;Yes;Back;Moyo-Nikkie;Nikkie;Moyo;00:14:17;00:14:18;00:00:02;Moyo;Raise;;PH
+29/05/2019;298;Yes;Back;Moyo-Nikkie;Nikkie;Moyo;00:14:17;00:14:18;00:00:01;Nikkie;Raise;;PH
+29/05/2019;298;Yes;Back;Moyo-Nikkie;Nikkie;Moyo;00:16:44;00:16:53;00:00:09;Nikkie;Groom hand/arm;Moyo;MC
+29/05/2019;298;Yes;Back;Moyo-Nikkie;Nikkie;Moyo;00:16:44;00:16:54;00:00:10;Moyo;Groom hand/arm;Nikkie;MC
+31/05/2019;338;Yes;Side;Coco-Noel;Noel;Coco;00:00:23;00:00:31;00:00:09;Noel;Groom face;Coco;PH
+31/05/2019;338;Yes;Side;Coco-Noel;Noel;Coco;00:00:31;00:00:32;00:00:01;Noel;Hold;;PH
+31/05/2019;338;Yes;Side;Coco-Noel;Noel;Coco;00:00:32;00:00:33;00:00:01;Coco;Raise;;PH
+31/05/2019;338;Yes;Side;Coco-Noel;Noel;Coco;00:00:32;00:00:33;00:00:01;Noel;Raise;;PH
+31/05/2019;338;Yes;Side;Coco-Noel;Noel;Coco;00:04:13;00:04:22;00:00:10;Noel;Groom face;Coco;MC
+31/05/2019;339;Yes;Side;Coco-Pan;;;00:05:06;00:05:13;00:00:07;Pan;Groom other;Coco;IRG
+31/05/2019;339;Yes;Side;Coco-Pan;;;00:05:13;00:05:15;00:00:02;Coco;Torso;;IRG
+31/05/2019;339;Yes;Side;Coco-Pan;;;00:05:15;00:05:16;00:00:01;Pan;Groom hand/arm;Coco;IRG
+31/05/2019;340;Yes;Side;Maggie-Noel;Noel;Maggie;00:09:23;00:09:30;00:00:07;Maggie;Groom face;Noel;PH
+31/05/2019;340;Yes;Side;Maggie-Noel;Noel;Maggie;00:09:31;00:09:31;00:00:01;Maggie;Head touch;Noel;PH
+31/05/2019;340;Yes;Side;Maggie-Noel;Noel;Maggie;00:09:31;00:09:31;00:00:01;Noel;Head move;;PH
+31/05/2019;340;Yes;Side;Maggie-Noel;Noel;Maggie;00:09:32;00:09:32;00:00:01;Maggie;Groom face;Noel;PH
+31/05/2019;340;Yes;Side;Maggie-Noel;Noel;Maggie;00:09:32;00:09:33;00:00:01;Noel;Raise;;PH
+31/05/2019;340;Yes;Side;Maggie-Noel;Noel;Maggie;00:09:32;00:09:33;00:00:01;Maggie;Raise;;PH
+31/05/2019;340;Yes;Side;Maggie-Noel;Noel;Maggie;00:10:42;00:10:52;00:00:10;Maggie;Groom hand/arm;Noel;MC
+31/05/2019;340;Yes;Side;Maggie-Noel;Noel;Maggie;00:10:42;00:10:52;00:00:10;Noel;Groom other;Maggie;MC
+31/05/2019;344;Yes;Side;Daisey-Diana;Daisey;Diana;00:04:16;00:04:24;00:00:08;Daisey;Groom hand/arm;Diana;PH
+31/05/2019;344;Yes;Side;Daisey-Diana;Daisey;Diana;00:04:26;00:04:26;00:00:00;Daisey;Raise;;PH
+31/05/2019;344;Yes;Side;Daisey-Diana;Daisey;Diana;00:04:26;00:04:26;00:00:01;Diana;Raise;;PH
+31/05/2019;344;Yes;Side;Daisey-Diana;Daisey;Diana;00:04:26;00:04:26;00:00:00;Daisey;Elbow hold;Diana;PH
+31/05/2019;344;Yes;Side;Daisey-Diana;Daisey;Diana;00:04:26;00:04:26;00:00:00;Daisey;Raise;;PH
+31/05/2019;344;Yes;Side;Daisey-Diana;Daisey;Diana;00:29:02;00:29:12;00:00:10;Daisey;Groom face;;MC
+31/05/2019;345;Yes;Side;Moyo-Nikkie;Moyo;Nikkie;00:25:24;00:25:32;00:00:08;Nikkie;Groom hand/arm;Moyo;PH
+31/05/2019;345;Yes;Side;Moyo-Nikkie;Moyo;Nikkie;00:25:24;00:25:32;00:00:08;Moyo;Groom other;Nikkie;PH
+31/05/2019;345;Yes;Side;Moyo-Nikkie;Moyo;Nikkie;00:25:33;00:25:33;00:00:00;Moyo;Elbow hold;Nikkie;PH
+31/05/2019;345;Yes;Side;Moyo-Nikkie;Moyo;Nikkie;00:25:33;00:25:34;00:00:01;Moyo;Raise;;PH
+31/05/2019;345;Yes;Side;Moyo-Nikkie;Moyo;Nikkie;00:25:33;00:25:34;00:00:01;Nikkie;Raise;;PH
+31/05/2019;345;Yes;Side;Moyo-Nikkie;Moyo;Nikkie;00:30:04;00:30:14;00:00:10;Moyo;Groom face;Nikkie;MC
+31/05/2019;345;Yes;Side;Moyo-Nikkie;Moyo;Nikkie;00:30:04;00:30:14;00:00:10;Nikkie;Groom other;Moyo;MC
+31/05/2019;346;Yes;Back;Max-Misha;Misha;Max;00:00:07;00:00:14;00:00:07;Max;Groom face;Misha;PH
+31/05/2019;346;Yes;Back;Max-Misha;Misha;Max;00:00:14;00:00:15;00:00:01;Max;Self scratch;;PH
+31/05/2019;346;Yes;Back;Max-Misha;Misha;Max;00:00:15;00:00:16;00:00:01;Misha;Raise;;PH
+31/05/2019;346;Yes;Back;Max-Misha;Misha;Max;00:00:16;00:00:17;00:00:01;Misha;Hand Grab;Max;PH
+31/05/2019;346;Yes;Back;Max-Misha;Misha;Max;00:00:17;00:00:17;00:00:01;Misha;Raise;;PH
+31/05/2019;346;Yes;Back;Max-Misha;Misha;Max;00:00:17;00:00:17;00:00:00;Max;Raise;;PH
+31/05/2019;346;Yes;Back;Max-Misha;Misha;Max;00:01:43;00:01:53;00:00:10;Misha;Groom face;Max;MC
+31/05/2019;347;Yes;Side;Maggie-May;May;Maggie;00:00:22;00:00:23;00:00:01;May;Self scratch;;PH
+31/05/2019;347;Yes;Side;Maggie-May;May;Maggie;00:00:23;00:00:24;00:00:00;May;Head touch;Maggie;PH
+31/05/2019;347;Yes;Side;Maggie-May;May;Maggie;00:00:24;00:00:24;00:00:00;May;Hand touch;Maggie;PH
+31/05/2019;347;Yes;Side;Maggie-May;May;Maggie;00:00:24;00:00:25;00:00:01;Maggie;Raise;;PH
+31/05/2019;347;Yes;Side;Maggie-May;May;Maggie;00:00:24;00:00:25;00:00:00;May;Raise;;PH
+31/05/2019;347;Yes;Side;Maggie-May;May;Maggie;00:02:20;00:02:28;00:00:08;Maggie;Groom face;May;MC
+31/05/2019;347;Yes;Side;Maggie-May;May;Maggie;00:02:28;00:02:30;00:00:02;Maggie;Groom other;May;MC
+31/05/2019;350;Yes;Side;Claire-Tess;;;00:05:53;00:05:55;00:00:02;Claire;Self scratch;;IRG
+31/05/2019;350;Yes;Side;Claire-Tess;;;00:05:58;00:05:59;00:00:01;Tess;Groom face;Claire;IRG
+31/05/2019;394;Yes;Side;David-Nikkie;Nikkie;David;00:08:45;00:08:54;00:00:09;Nikkie;Groom other;David;PH
+31/05/2019;394;Yes;Side;David-Nikkie;Nikkie;David;00:08:46;00:08:54;00:00:09;David;Groom other;Nikkie;PH
+31/05/2019;394;Yes;Side;David-Nikkie;Nikkie;David;00:08:54;00:08:55;00:00:01;Nikkie;Raise;;PH
+31/05/2019;394;Yes;Side;David-Nikkie;Nikkie;David;00:08:55;00:08:55;00:00:01;David;Raise;;PH
+31/05/2019;394;Yes;Side;David-Nikkie;Nikkie;David;00:12:00;00:12:10;00:00:10;David;Groom other;Nikkie;MC
+31/05/2019;394;Yes;Side;David-Nikkie;Nikkie;David;00:12:00;00:12:10;00:00:10;Nikkie;Groom hand/arm;David;MC
+31/05/2019;353;Yes;Back;Nikkie-Nina;;;00:12:16;00:12:17;00:00:02;Nina;Self scratch;;IRG
+31/05/2019;353;Yes;Back;Nikkie-Nina;;;00:12:18;00:12:21;00:00:03;Nikkie;Groom other;Nina;IRG
+31/05/2019;354;Yes;Side;Maxine-Noel;Maxine;Noel;00:00:30;00:00:38;00:00:09;Maxine;Groom hand/arm;Noel;PH
+31/05/2019;354;Yes;Side;Maxine-Noel;Maxine;Noel;00:00:30;00:00:38;00:00:08;Noel;Groom other;Maxine;PH
+31/05/2019;354;Yes;Side;Maxine-Noel;Maxine;Noel;00:00:39;00:00:40;00:00:01;Maxine;Raise;;PH
+31/05/2019;354;Yes;Side;Maxine-Noel;Maxine;Noel;00:00:39;00:00:40;00:00:01;Noel;Raise;;PH
+31/05/2019;354;Yes;Side;Maxine-Noel;Maxine;Noel;00:06:12;00:06:22;00:00:10;Maxine;Groom face;Noel;MC
+31/05/2019;355;Yes;Side;Noel-Tess;;;00:01:10;00:01:11;00:00:01;Noel;Torso;;IRG
+31/05/2019;355;Yes;Side;Noel-Tess;;;00:01:11;00:01:12;00:00:01;Noel;Groom face;Tess;IRG
+01/06/2019;397;Yes;Side;David-Doug;;;00:00:03;00:00:04;00:00:00;David;Touch other;Doug;IRG
+01/06/2019;397;Yes;Side;David-Doug;;;00:00:04;00:00:04;00:00:00;David;Head touch;Doug;IRG
+01/06/2019;397;Yes;Side;David-Doug;;;00:00:05;00:00:06;00:00:01;Doug;Head move;;IRG
+01/06/2019;397;Yes;Side;David-Doug;;;00:00:07;00:00:08;00:00:01;David;Groom other;Doug;IRG
+01/06/2019;398;Yes;Side;Dora-Nikkie;Nikkie;Dora;00:05:15;00:05:20;00:00:05;Dora;Groom face;Nikkie;PH
+01/06/2019;398;Yes;Side;Dora-Nikkie;Nikkie;Dora;00:05:15;00:05:22;00:00:07;Nikkie;Groom other;Dora;PH
+01/06/2019;398;Yes;Side;Dora-Nikkie;Nikkie;Dora;00:05:23;00:05:25;00:00:02;Dora;Raise;;PH
+01/06/2019;398;Yes;Side;Dora-Nikkie;Nikkie;Dora;00:05:23;00:05:25;00:00:02;Nikkie;Raise;;PH
+01/06/2019;398;Yes;Side;Dora-Nikkie;Nikkie;Dora;00:10:20;00:10:30;00:00:10;Dora;Groom hand/arm;Nikkie;MC
+01/06/2019;398;Yes;Side;Dora-Nikkie;Nikkie;Dora;00:10:25;00:10:30;00:00:04;Nikkie;Groom hand/arm;Dora;MC
+01/06/2019;399;Yes;Side;David-Diana;Diana;David;00:14:31;00:14:40;00:00:09;David;Groom other;Diana;PH
+01/06/2019;399;Yes;Side;David-Diana;Diana;David;00:14:31;00:14:39;00:00:08;Diana;Groom other;David;PH
+01/06/2019;399;Yes;Side;David-Diana;Diana;David;00:14:39;00:14:40;00:00:00;Diana;Head move;;PH
+01/06/2019;399;Yes;Side;David-Diana;Diana;David;00:14:40;00:14:40;00:00:00;Diana;Elbow hold;David;PH
+01/06/2019;399;Yes;Side;David-Diana;Diana;David;00:14:40;00:14:41;00:00:01;Diana;Raise;;PH
+01/06/2019;399;Yes;Side;David-Diana;Diana;David;00:14:40;00:14:41;00:00:01;David;Raise;;PH
+01/06/2019;399;Yes;Side;David-Diana;Diana;David;00:16:56;00:17:06;00:00:10;Diana;Groom face;David;MC
+01/06/2019;400;Yes;Side;Diana-Diz;Nikkie;;00:28:01;00:28:01;00:00:01;Diana;Nosewipe;;IRG
+01/06/2019;400;Yes;Side;Diana-Diz;Nikkie;;00:28:01;00:28:03;00:00:01;Diana;Torso;;IRG
+01/06/2019;400;Yes;Side;Diana-Diz;Nikkie;;00:28:05;00:28:05;00:00:00;Diz;Groom other;Diana;IRG
+01/06/2019;401;Yes;Side;David-Diana;;;00:30:40;00:30:41;00:00:01;David;Bent;;IRG
+01/06/2019;347;Yes;Side;Diana-Diz;Diz;Diana;00:00:21;00:00:29;00:00:08;Diz;Groom other;Diana;MC
+01/06/2019;347;Yes;Side;Diana-Diz;Diz;Diana;00:00:29;00:00:29;00:00:00;Diz;Self scratch;;MC
+01/06/2019;347;Yes;Side;Diana-Diz;Diz;Diana;00:00:30;00:00:31;00:00:00;Diz;Groom other;Diana;MC
+01/06/2019;347;Yes;Side;Diana-Diz;Diz;Diana;00:34:02;00:34:07;00:00:05;Diz;Groom hand/arm;Diana;PH
+01/06/2019;347;Yes;Side;Diana-Diz;Diz;Diana;00:34:07;00:34:07;00:00:00;Diz;Self scratch;;PH
+01/06/2019;347;Yes;Side;Diana-Diz;Diz;Diana;00:34:09;00:34:10;00:00:01;Diz;Head touch;Diana;PH
+01/06/2019;347;Yes;Side;Diana-Diz;Diz;Diana;00:34:09;00:34:11;00:00:02;Diana;Torso;;PH
+01/06/2019;347;Yes;Side;Diana-Diz;Diz;Diana;00:34:11;00:34:11;00:00:00;Diz;Elbow hold;Diana;PH
+01/06/2019;347;Yes;Side;Diana-Diz;Diz;Diana;00:34:11;00:34:11;00:00:00;Diz;Hand Grab;Diana;PH
+01/06/2019;347;Yes;Side;Diana-Diz;Diz;Diana;00:34:11;00:34:12;00:00:00;Diana;Raise;;PH
+01/06/2019;347;Yes;Side;Diana-Diz;Diz;Diana;00:34:11;00:34:12;00:00:00;Diz;Raise;;PH
+01/06/2019;349;Yes;Side;David-Diana;;;00:00:52;00:00:53;00:00:01;David;Torso;;IRG
+01/06/2019;349;Yes;Side;David-Diana;;;00:00:53;00:00:54;00:00:01;Diana;Self scratch;;IRG
+01/06/2019;349;Yes;Side;David-Diana;;;00:00:54;00:00:54;00:00:01;David;Nosewipe;;IRG
+01/06/2019;349;Yes;Side;David-Diana;;;00:00:55;00:00:57;00:00:02;Diana;Groom other;David;IRG
+01/06/2019;403;Yes;Side;Little Jane-Little Jenkins;Little Jenkins;Little Jane;00:01:20;00:01:28;00:00:08;Little Jenkins;Groom other;Little Jane;PH
+01/06/2019;403;Yes;Side;Little Jane-Little Jenkins;Little Jenkins;Little Jane;00:01:28;00:01:29;00:00:00;Little Jenkins;Touch other;Little Jane;PH
+01/06/2019;403;Yes;Side;Little Jane-Little Jenkins;Little Jenkins;Little Jane;00:01:29;00:01:29;00:00:00;Little Jenkins;Elbow hold;Little Jane;PH
+01/06/2019;403;Yes;Side;Little Jane-Little Jenkins;Little Jenkins;Little Jane;00:01:29;00:01:30;00:00:01;Little Jane;Raise;;PH
+01/06/2019;403;Yes;Side;Little Jane-Little Jenkins;Little Jenkins;Little Jane;00:01:29;00:01:30;00:00:01;Little Jenkins;Raise;;PH
+01/06/2019;403;Yes;Side;Little Jane-Little Jenkins;Little Jenkins;Little Jane;00:04:49;00:04:59;00:00:10;Little Jenkins;Groom other;Little Jane;MC
+01/06/2019;403;Yes;Side;Little Jane-Little Jenkins;Little Jenkins;Little Jane;00:04:49;00:04:59;00:00:10;Little Jane;Groom other;Little Jenkins;MC
+01/06/2019;352;Yes;Side;Little Jane-Little Jones;Little Jane;Little Jones;00:08:40;00:08:44;00:00:04;Little Jane;Self scratch;;PH
+01/06/2019;352;Yes;Side;Little Jane-Little Jones;Little Jane;Little Jones;00:08:47;00:08:47;00:00:00;Little Jane;Elbow touch;Little Jones;PH
+01/06/2019;352;Yes;Side;Little Jane-Little Jones;Little Jane;Little Jones;00:08:47;00:08:48;00:00:01;Little Jones;Raise;;PH
+01/06/2019;352;Yes;Side;Little Jane-Little Jones;Little Jane;Little Jones;00:08:47;00:08:48;00:00:01;Little Jane;Raise;;PH
+01/06/2019;352;Yes;Side;Little Jane-Little Jones;Little Jane;Little Jones;00:15:20;00:15:26;00:00:06;Little Jones;Groom face;Little Jane;MC
+01/06/2019;352;Yes;Side;Little Jane-Little Jones;Little Jane;Little Jones;00:15:26;00:15:30;00:00:03;Little Jones;Self scratch;;MC
+01/06/2019;373;Yes;Side;David-Nikkie;Nikkie;David;00:23:45;00:23:47;00:00:02;David;Self scratch;;PH
+01/06/2019;373;Yes;Side;David-Nikkie;Nikkie;David;00:23:48;00:23:52;00:00:04;Nikkie;Hold;;PH
+01/06/2019;373;Yes;Side;David-Nikkie;Nikkie;David;00:23:48;00:23:51;00:00:03;David;Self scratch;;PH
+01/06/2019;373;Yes;Side;David-Nikkie;Nikkie;David;00:23:51;00:23:52;00:00:01;David;Raise;;PH
+01/06/2019;373;Yes;Side;David-Nikkie;Nikkie;David;00:23:52;00:23:52;00:00:00;Nikkie;Raise;;PH
+01/06/2019;373;Yes;Side;David-Nikkie;Nikkie;David;00:28:49;00:28:57;00:00:08;David;Groom hand/arm;Nikkie;MC
+01/06/2019;373;Yes;Side;David-Nikkie;Nikkie;David;00:28:49;00:28:58;00:00:09;Nikkie;Groom hand/arm;David;MC
+03/06/2019;405;Yes;Side;Daisey-Diana;Daisey;Diana;00:04:07;00:04:15;00:00:08;Daisey;Groom hand/arm;Diana;PH
+03/06/2019;405;Yes;Side;Daisey-Diana;Daisey;Diana;00:04:15;00:04:15;00:00:00;Daisey;Torso;;PH
+03/06/2019;405;Yes;Side;Daisey-Diana;Daisey;Diana;00:04:15;00:04:16;00:00:00;Daisey;Hand touch;Diana;PH
+03/06/2019;405;Yes;Side;Daisey-Diana;Daisey;Diana;00:04:16;00:04:17;00:00:01;Daisey;Raise;;PH
+03/06/2019;405;Yes;Side;Daisey-Diana;Daisey;Diana;00:04:16;00:04:17;00:00:01;Diana;Raise;;PH
+03/06/2019;405;Yes;Side;Daisey-Diana;Daisey;Diana;00:11:15;00:11:25;00:00:10;Daisey;Groom hand/arm;Diana;MC
+03/06/2019;405;Yes;Side;Daisey-Diana;Daisey;Diana;00:11:15;00:11:25;00:00:10;Diana;Groom hand/arm;Daisey;MC
+03/06/2019;407;Yes;Back;Diana-Diz;Diana;Diz;00:01:19;00:01:24;00:00:06;Diana;Groom other;Diz;PH
+03/06/2019;407;Yes;Back;Diana-Diz;Diana;Diz;00:01:27;00:01:27;00:00:01;Diana;Self scratch;;PH
+03/06/2019;407;Yes;Back;Diana-Diz;Diana;Diz;00:01:28;00:01:29;00:00:01;Diz;Raise;;PH
+03/06/2019;407;Yes;Back;Diana-Diz;Diana;Diz;00:01:28;00:01:29;00:00:01;Diana;Raise;;PH
+03/06/2019;407;Yes;Back;Diana-Diz;Diana;Diz;00:02:37;00:02:47;00:00:10;Diz;Groom face;Diana;MC
+03/06/2019;408;Yes;Back;Diana-Diz;;;00:01:47;00:01:53;00:00:05;Diz;Groom other;Diana;IRG
+03/06/2019;408;Yes;Back;Diana-Diz;;;00:01:53;00:01:53;00:00:00;Diz;Head shake;;IRG
+03/06/2019;408;Yes;Back;Diana-Diz;;;00:01:53;00:01:56;00:00:03;Diana;Torso;;IRG
+03/06/2019;408;Yes;Back;Diana-Diz;;;00:01:54;00:01:55;00:00:01;Diz;Self scratch;;IRG
+03/06/2019;408;Yes;Back;Diana-Diz;;;00:01:56;00:01:56;00:00:00;Diz;Nosewipe;;IRG
+03/06/2019;408;Yes;Back;Diana-Diz;;;00:01:57;00:01:57;00:00:01;Diz;Groom other;Diana;IRG
+03/06/2019;358;Yes;Side;Daisey-Diana;;;00:03:37;00:03:39;00:00:02;Diana;Torso;;IRG
+03/06/2019;358;Yes;Side;Daisey-Diana;;;00:03:40;00:03:41;00:00:02;Diana;Groom face;Daisey;IRG
+03/06/2019;359;Yes;Back;Dolly-Doug;;;00:00:06;00:00:07;00:00:02;Dolly;Groom other;Doug;IRG
+04/06/2019;362;Yes;Side;Daisey-Diana;Daisey;Diana;00:01:30;00:01:38;00:00:08;Daisey;Groom hand/arm;Diana;PH
+04/06/2019;362;Yes;Side;Daisey-Diana;Daisey;Diana;00:01:38;00:01:38;00:00:00;Daisey;Nosewipe;;PH
+04/06/2019;362;Yes;Side;Daisey-Diana;Daisey;Diana;00:01:38;00:01:39;00:00:00;Daisey;Head move;;PH
+04/06/2019;362;Yes;Side;Daisey-Diana;Daisey;Diana;00:01:39;00:01:40;00:00:01;Daisey;Raise;;PH
+04/06/2019;362;Yes;Side;Daisey-Diana;Daisey;Diana;00:01:39;00:01:40;00:00:01;Diana;Raise;;PH
+04/06/2019;362;Yes;Side;Daisey-Diana;Daisey;Diana;00:03:37;00:03:47;00:00:10;Daisey;Groom face;Diana;MC
+04/06/2019;364;Yes;Back;Debbie-Tess;Debbie;Tess;00:00:27;00:00:35;00:00:08;Tess;Groom other;Debbie;PH
+04/06/2019;364;Yes;Back;Debbie-Tess;Debbie;Tess;00:00:34;00:00:37;00:00:02;Debbie;Raise;;PH
+04/06/2019;364;Yes;Back;Debbie-Tess;Debbie;Tess;00:00:35;00:00:37;00:00:01;Tess;Raise;;PH
+04/06/2019;364;Yes;Back;Debbie-Tess;Debbie;Tess;00:02:38;00:02:48;00:00:10;Tess;Groom face;Debbie;MC
+04/06/2019;365;Yes;Back;Debbie-Tess;Debbie;Tess;00:00:49;00:00:50;00:00:01;Debbie;Torso;;PH
+04/06/2019;365;Yes;Back;Debbie-Tess;Debbie;Tess;00:00:50;00:00:52;00:00:01;Debbie;Raise;;PH
+04/06/2019;365;Yes;Back;Debbie-Tess;Debbie;Tess;00:00:51;00:00:52;00:00:01;Tess;Raise;;PH
+04/06/2019;365;Yes;Back;Debbie-Tess;Debbie;Tess;00:03:12;00:03:22;00:00:10;Debbie;Groom other;Tess;MC
+04/06/2019;367;Yes;Back;Dolly-Nikkie;Nikkie;Dolly;00:00:38;00:00:47;00:00:09;Nikkie;Groom other;Dolly;PH
+04/06/2019;367;Yes;Back;Dolly-Nikkie;Nikkie;Dolly;00:00:38;00:00:47;00:00:09;Dolly;Groom other;Nikkie;PH
+04/06/2019;367;Yes;Back;Dolly-Nikkie;Nikkie;Dolly;00:00:47;00:00:47;00:00:00;Nikkie;Torso;;PH
+04/06/2019;367;Yes;Back;Dolly-Nikkie;Nikkie;Dolly;00:00:47;00:00:48;00:00:01;Nikkie;Raise;;PH
+04/06/2019;367;Yes;Back;Dolly-Nikkie;Nikkie;Dolly;00:00:47;00:00:48;00:00:01;Dolly;Raise;;PH
+04/06/2019;367;Yes;Back;Dolly-Nikkie;Nikkie;Dolly;00:02:28;00:02:38;00:00:10;Dolly;Groom hand/arm;Nikkie;MC
+04/06/2019;367;Yes;Back;Dolly-Nikkie;Nikkie;Dolly;00:02:28;00:02:38;00:00:10;Nikkie;Groom hand/arm;Dolly;MC
+07/06/2019;378;Yes;Back;Daisey-Diz;Daisey;Diz;00:01:58;00:02:05;00:00:08;Daisey;Groom hand/arm;Diz;PH
+07/06/2019;378;Yes;Back;Daisey-Diz;Daisey;Diz;00:02:07;00:02:08;00:00:01;Daisey;Raise;;PH
+07/06/2019;378;Yes;Back;Daisey-Diz;Daisey;Diz;00:02:07;00:02:08;00:00:01;Diz;Raise;;PH
+07/06/2019;378;Yes;Back;Daisey-Diz;Daisey;Diz;00:14:12;00:14:22;00:00:10;Diz;Groom other;Daisey;MC
+06/06/2019;379;Yes;Back;Dolly-Moyo;Dolly;Moyo;00:00:33;00:00:40;00:00:07;Dolly;Groom other;Dolly;PH
+06/06/2019;379;Yes;Back;Dolly-Moyo;Dolly;Moyo;00:00:41;00:00:42;00:00:01;Moyo;Torso;;PH
+06/06/2019;379;Yes;Back;Dolly-Moyo;Dolly;Moyo;00:00:41;00:00:41;00:00:00;Dolly;Head touch;Moyo;PH
+06/06/2019;379;Yes;Back;Dolly-Moyo;Dolly;Moyo;00:00:41;00:00:43;00:00:02;Dolly;Hold;;PH
+06/06/2019;379;Yes;Back;Dolly-Moyo;Dolly;Moyo;00:00:42;00:00:43;00:00:01;Moyo;Raise;;PH
+06/06/2019;379;Yes;Back;Dolly-Moyo;Dolly;Moyo;00:00:43;00:00:43;00:00:00;Dolly;Raise;;PH
+06/06/2019;379;Yes;Back;Dolly-Moyo;Dolly;Moyo;00:01:41;00:01:48;00:00:07;Dolly;Groom other;Moyo;MC
+06/06/2019;379;Yes;Back;Dolly-Moyo;Dolly;Moyo;00:01:48;00:01:51;00:00:03;Dolly;Groom face;Moyo;MC
+07/06/2019;380;Yes;Back;David-Tess;Tess;David;00:01:02;00:01:10;00:00:09;David;Groom other;Tess;PH
+07/06/2019;380;Yes;Back;David-Tess;Tess;David;00:01:02;00:01:10;00:00:08;Tess;Groom other;David;PH
+07/06/2019;380;Yes;Back;David-Tess;Tess;David;00:01:10;00:01:11;00:00:00;Tess;Head move;;PH
+07/06/2019;380;Yes;Back;David-Tess;Tess;David;00:01:11;00:01:12;00:00:01;Tess;Raise;;PH
+07/06/2019;380;Yes;Back;David-Tess;Tess;David;00:01:11;00:01:12;00:00:01;David;Raise;;PH
+07/06/2019;380;Yes;Back;David-Tess;Tess;David;00:05:53;00:05:54;00:00:01;David;Groom other;Tess;MC
+07/06/2019;380;Yes;Back;David-Tess;Tess;David;00:05:53;00:06:03;00:00:10;Tess;Groom other;David;MC
+07/06/2019;382;Yes;Back;Little Judy-Long John;Little Judy;Long John;00:01:40;00:01:43;00:00:04;Little Judy;Groom other;Long John;PH
+07/06/2019;382;Yes;Back;Little Judy-Long John;Little Judy;Long John;00:01:43;00:01:44;00:00:01;Little Judy;Nosewipe;;PH
+07/06/2019;382;Yes;Back;Little Judy-Long John;Little Judy;Long John;00:01:45;00:01:46;00:00:01;Little Judy;Touch other;Long John;PH
+07/06/2019;382;Yes;Back;Little Judy-Long John;Little Judy;Long John;00:01:45;00:01:46;00:00:01;Long John;Torso;;PH
+07/06/2019;382;Yes;Back;Little Judy-Long John;Little Judy;Long John;00:01:47;00:01:48;00:00:01;Little Judy;Hold;;PH
+07/06/2019;382;Yes;Back;Little Judy-Long John;Little Judy;Long John;00:01:48;00:01:49;00:00:01;Little Judy;Elbow hold;Long John;PH
+07/06/2019;382;Yes;Back;Little Judy-Long John;Little Judy;Long John;00:01:49;00:01:50;00:00:01;Long John;Raise;;PH
+07/06/2019;382;Yes;Back;Little Judy-Long John;Little Judy;Long John;00:01:49;00:01:50;00:00:01;Little Judy;Raise;;PH
+07/06/2019;382;Yes;Back;Little Judy-Long John;Little Judy;Long John;00:03:19;00:03:29;00:00:10;Little Judy;Groom other;Long John;MC
+07/06/2019;383;Yes;Side;Dolly-Nikkie;Nikkie;Dolly;00:02:35;00:02:41;00:00:06;Nikkie;Groom other;Dolly;PH
+07/06/2019;383;Yes;Side;Dolly-Nikkie;Nikkie;Dolly;00:02:42;00:02:43;00:00:01;Nikkie;Self scratch;;PH
+07/06/2019;383;Yes;Side;Dolly-Nikkie;Nikkie;Dolly;00:02:43;00:02:45;00:00:02;Dolly;Torso;;PH
+07/06/2019;383;Yes;Side;Dolly-Nikkie;Nikkie;Dolly;00:02:45;00:02:45;00:00:01;Dolly;Raise;;PH
+07/06/2019;383;Yes;Side;Dolly-Nikkie;Nikkie;Dolly;00:02:45;00:02:45;00:00:00;Nikkie;Raise;;PH
+07/06/2019;383;Yes;Side;Dolly-Nikkie;Nikkie;Dolly;00:06:52;00:07:02;00:00:10;Nikkie;Groom hand/arm;Dolly;MC
+07/06/2019;384;Yes;Back;Doug-Vis;;;00:02:50;00:02:50;00:00:00;Doug;Touch other;Vis;PH
+07/06/2019;384;Yes;Back;Doug-Vis;;;00:02:50;00:02:51;00:00:01;Vis;Torso;;PH
+07/06/2019;384;Yes;Back;Doug-Vis;;;00:02:51;00:02:53;00:00:02;Doug;Raise;;PH
+07/06/2019;384;Yes;Back;Doug-Vis;;;00:02:51;00:02:51;00:00:00;Vis;Raise;;PH
+07/06/2019;384;Yes;Back;Doug-Vis;;;00:02:52;00:02:53;00:00:01;Vis;Raise;;PH
+07/06/2019;384;Yes;Back;Doug-Vis;;;00:07:43;00:07:44;00:00:01;Doug;Groom face;Vis;MC
+07/06/2019;384;Yes;Back;Doug-Vis;;;00:07:48;00:07:53;00:00:04;Doug;Groom hand/arm;Vis;MC
+13/06/2019;386;Yes;Side;Nikkie-Tess;Nikkie;Tess;00:00:07;00:00:14;00:00:07;Nikkie;Groom armpit;Tess;PH
+13/06/2019;386;Yes;Side;Nikkie-Tess;Nikkie;Tess;00:00:14;00:00:15;00:00:01;Tess;Torso;;PH
+13/06/2019;386;Yes;Side;Nikkie-Tess;Nikkie;Tess;00:00:15;00:00:16;00:00:01;Tess;Hold;;PH
+13/06/2019;386;Yes;Side;Nikkie-Tess;Nikkie;Tess;00:00:16;00:00:16;00:00:01;Nikkie;Raise;;PH
+13/06/2019;386;Yes;Side;Nikkie-Tess;Nikkie;Tess;00:00:16;00:00:16;00:00:00;Tess;Raise;;PH
+13/06/2019;386;Yes;Side;Nikkie-Tess;Nikkie;Tess;00:01:30;00:01:40;00:00:10;Nikkie;Groom other;Tess;MC
+13/06/2019;386;Yes;Side;Nikkie-Tess;Nikkie;Tess;00:01:30;00:01:40;00:00:10;Tess;Groom other;Nikkie;MC
+13/06/2019;388;Yes;Side;Debbie-Tess;Debbie;Tess;00:03:16;00:03:17;00:00:00;Debbie;Torso;;PH
+13/06/2019;388;Yes;Side;Debbie-Tess;Debbie;Tess;00:03:18;00:03:19;00:00:01;Debbie;Hold;;PH
+13/06/2019;388;Yes;Side;Debbie-Tess;Debbie;Tess;00:03:19;00:03:19;00:00:00;Tess;Raise;;PH
+13/06/2019;388;Yes;Side;Debbie-Tess;Debbie;Tess;00:03:19;00:03:19;00:00:00;Debbie;Raise;;PH
+13/06/2019;388;Yes;Side;Debbie-Tess;Debbie;Tess;00:17:00;00:17:06;00:00:06;Tess;Groom face;Debbie;MC
+13/06/2019;388;Yes;Side;Debbie-Tess;Debbie;Tess;00:17:06;00:17:10;00:00:04;Tess;Hold;;MC
+13/06/2019;388;Yes;Side;Debbie-Tess;Debbie;Tess;00:17:10;00:17:10;00:00:00;Tess;Self scratch;;MC
+29/07/2019;391;Yes;Side;Little Jane-Little Jenkins;Little Jane;Little Jenkins;00:00:14;00:00:21;00:00:08;Little Jane;Groom face;Little Jenkins;PH
+29/07/2019;391;Yes;Side;Little Jane-Little Jenkins;Little Jane;Little Jenkins;00:00:22;00:00:24;00:00:02;Little Jane;Raise;;PH
+29/07/2019;391;Yes;Side;Little Jane-Little Jenkins;Little Jane;Little Jenkins;00:00:22;00:00:24;00:00:01;Little Jenkins;Raise;;PH
+29/07/2019;391;Yes;Side;Little Jane-Little Jenkins;Little Jane;Little Jenkins;00:00:59;00:01:09;00:00:10;Little Jenkins;Groom other;Little Jane;MC
