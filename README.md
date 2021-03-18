@@ -1,4 +1,5 @@
 Data and code for _"Chimpanzees communicate to coordinate a cultural practice"_ by Goldsborough, Z., Schel, A.M., and E.J.C. van Leeuwen.
+[![DOI](https://zenodo.org/badge/340064913.svg)](https://zenodo.org/badge/latestdoi/340064913)
 
 This repository contains the R script _("GHC Initiation.R")_ required to replicate all analyses reported in the manuscript. The files required to run this script are a csv consisting of the data from video-coding of GHC videos _("Handclasp Datacoding MD_postIRR.csv")_ and a csv containing data extracted from the larger dataset used to create Figure 2 _("Sunburst 2A_postIRR.csv")_. Both files are called "postIRR" as a number of changes were introduced after the inter-rater-reliability (IRR) was completed and the observers agreed on the correct coding. An interactive version of Figure 2 can be viewed either by running the R script or by downloading and opening the HTML of Figure 2 _("Sunburst2A.html")_.
 
